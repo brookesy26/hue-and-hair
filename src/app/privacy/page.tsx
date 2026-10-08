@@ -8,14 +8,28 @@ export default function Privacy() {
       <p className="eyebrow">Your privacy</p>
       <h1>Simply explore.</h1>
       <p className="lead">
-        Hue & Hair does not ask you to create an account, upload photographs or
-        provide personal details.
+        Hue & Hair does not require an account or personal details. The optional
+        photo comparison works on your device; your picture is not uploaded to
+        our website or an external analysis service.
       </p>
       <h2>Your self-assessment answers</h2>
       <p>
         Answers are held in the page’s memory while you use the self-assessment.
         They are not sent to us, saved in browser storage or retained when you
         refresh or close the page.
+      </p>
+      <h2>Your camera and photos</h2>
+      <p>
+        The front camera opens only when you choose to use it and your browser
+        grants permission. We request video, never microphone access. The camera
+        stops after capture, cancellation, leaving the page or hiding the tab.
+        An optional selected photo is resized in your browser for comparison.
+      </p>
+      <p>
+        Pictures are held only in page memory. We do not save them to browser
+        storage or send them over the network. Remove the photo, restart the
+        assessment, refresh or leave the page to clear it. Your browser or
+        device may manage its own camera permissions and chosen source files.
       </p>
       <h2>Cookies and analytics</h2>
       <p>

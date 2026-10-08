@@ -21,6 +21,10 @@ const headers = {
   'Content-Type': 'application/json',
   'X-GitHub-Api-Version': '2022-11-28',
 };
+const branch =
+  process.argv.find((a) => a.startsWith('--branch='))?.slice(9) ||
+  'feat/photo-draping';
+const headQuery = encodeURIComponent('brookesy26:' + branch);
 const api = 'https://api.github.com/repos/brookesy26/hue-and-hair';
 async function request(path, method = 'GET', body) {
   const response = await fetch(api + path, {
@@ -34,12 +38,12 @@ async function request(path, method = 'GET', body) {
   return data;
 }
 if (process.argv.includes('--create')) {
-  const prs = await request('/pulls?head=brookesy26:feat/website&state=open');
+  const prs = await request(`/pulls?head=${headQuery}&state=open`);
   const p =
     prs[0] ||
     (await request('/pulls', 'POST', {
-      title: 'Build Hue & Hair hairstyle and inclusive colour guidance website',
-      head: 'feat/website',
+      title: 'Add private photo-assisted colour comparisons',
+      head: branch,
       base: 'main',
       body: await readFile('docs/pull-request.md', 'utf8'),
     }));
@@ -61,7 +65,9 @@ if (process.argv.includes('--status')) {
       })),
     ),
   );
-  const checks = await request('/commits/feat/website/check-runs');
+  const checks = await request(
+    `/commits/${encodeURIComponent(branch)}/check-runs`,
+  );
   console.log(
     JSON.stringify(
       checks.check_runs.map((c) => ({
@@ -75,7 +81,9 @@ if (process.argv.includes('--status')) {
 }
 if (process.argv.includes('--jobs')) {
   const latest = (
-    await request('/actions/runs?branch=feat%2Fwebsite&per_page=1')
+    await request(
+      `/actions/runs?branch=${encodeURIComponent(branch)}&per_page=1`,
+    )
   ).workflow_runs[0];
   const data = await request(`/actions/runs/${latest.id}/jobs`);
   console.log(
@@ -93,9 +101,7 @@ if (process.argv.includes('--jobs')) {
   );
 }
 if (process.argv.includes('--merge')) {
-  const p = (
-    await request('/pulls?head=brookesy26:feat/website&state=open')
-  )[0];
+  const p = (await request(`/pulls?head=${headQuery}&state=open`))[0];
   if (!p) throw Error('No PR');
   const checks = await request(`/commits/${p.head.sha}/check-runs`);
   if (
@@ -115,9 +121,7 @@ if (process.argv.includes('--merge')) {
 }
 
 if (process.argv.includes('--update')) {
-  const p = (
-    await request('/pulls?head=brookesy26:feat/website&state=open')
-  )[0];
+  const p = (await request(`/pulls?head=${headQuery}&state=open`))[0];
   console.log(
     JSON.stringify({
       updated: (

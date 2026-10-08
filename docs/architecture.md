@@ -35,3 +35,17 @@ Palette swatches have text names and hex values. Never communicate an answer, se
 ## Changing the platform
 
 The static export supports content updates through rebuilds. A future CMS can supply validated content at build time while preserving the getter contract; see [content editing](content-editing.md). Authenticated content, live uploads, server actions and request-time API logic would require a deliberate hosting and privacy redesign. Do not add those capabilities to a static route without reviewing the architecture.
+
+## Optional private photo comparison
+
+The assessment can use a captured front-camera still or a selected JPG/PNG/WebP file. Browser-only code decodes/resizes the picture and holds a temporary object URL; no backend, storage, image classification or identity inference is added. The camera is requested only on an explicit button action, with audio:false. Stop every track after capture/cancel/unmount/pagehide/hidden tab, and stop a late permission result if its request was cancelled. Object URLs are revoked on replacement/removal/restart/unmount.
+
+Photo comparison is presentation-only. Curated sample sets describe temperature, depth and clarity; the existing user-answer scoring remains separate. Identical photo transforms are applied to every sample; CSS drapes/frame panels leave the photographed face unchanged. Range controls support keyboard positioning. The photo-free path remains fully usable and digital colour is explicitly approximate.
+
+### Photo-assisted comparison implementation references
+
+- [MDN getUserMedia](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia): HTTPS, explicit permission, video-only constraints and an unresolved permission prompt are handled.
+- [MDN camera Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Permissions-Policy/camera): same-origin camera access is enabled without microphone access.
+- [MDN revokeObjectURL](https://developer.mozilla.org/en-US/docs/Web/API/URL/revokeObjectURL_static): temporary image URLs are revoked on replacement and disposal.
+
+Digital samples are original illustrative sRGB colours, not calibrated fabric references. The browser does not infer complexion, ethnicity, gender or a season from pixels. Existing answer-based scoring remains the only source of tentative suggestions.

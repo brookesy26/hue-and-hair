@@ -44,3 +44,11 @@ All 50 production paths, 72 exact asset hashes, HTTPS redirects, sitemap/robots,
 Known limits: screen-reader and actual400% browser zoom review remain pending; no AAA compliance claim. Development-only braces advisory remains unpatched. Cloudflare source settings are enabled, but push-triggered builds have not been observed; explicit Git-backed API preview/production builds work and are documented. The delivery uses no paid services.
 
 Release checkpoint usage:68% five-hour used, 35% weekly used; five-hour reset 9October2026 01:26 Europe/London. Final handover commit records documentation/QA evidence and formatting without changing application behaviour.
+
+## Photo-assisted assessment upgrade — in progress
+
+Approved8October2026: optional front-camera capture or local photo selection, reuse one still image for labelled temperature/depth/clarity drapes, continue without a photo, positioning sliders, alternate colour sets, temporary memory only. No server upload or automatic face/season analysis. Current branch feat/photo-draping. Usage at start76% five-hour; user authorises all remaining allowance if needed, superseding the earlier10% headroom constraint for this upgrade.
+
+Integration updates camera permission to same-origin only, permits local blob preview media, keeps microphone/geolocation disabled, updates privacy/accessibility copy and restarts photo state with answers. Camera streams must stop after capture/cancel/navigation/hidden tab, including pending-permission races; object URLs must be released on replacement/removal/unmount. Photo decoding limits, denied/unavailable camera, sample-switching and photo-free fallback will be verified before release.
+
+Upgrade verification: 28 unit/component tests, lint, strict types and static build pass. Local Chromium/WebKit journeys verify optional photos, all questionnaire stages, positioning, invalid files, denied permission, memory-only handling, restart/refresh clearing, responsiveness and axe. Synthetic camera capture passes in Chromium; other engines use file journeys. Camera hardware and manual screen-reader testing remain pending. Cross-engine CI, preview and production release are next.

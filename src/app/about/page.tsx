@@ -32,9 +32,9 @@ export default function About() {
           </p>
           <h2>Inspiration with perspective</h2>
           <p>
-            All photographs on this website are AI-generated illustrations. They
-            help show ideas, but do not promise an exact salon outcome or
-            establish a person’s colour season.
+            The guide photographs on this website are AI-generated
+            illustrations. They help show ideas, but do not promise an exact
+            salon outcome or establish a person’s colour season.
           </p>
           <p>
             Seasonal colour analysis is a styling framework. Lighting,

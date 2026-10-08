@@ -20,7 +20,7 @@ export const questions: Question[] = [
     id: 'temperature',
     title: 'Which colour temperature feels more harmonious?',
     description:
-      'In indirect daylight, hold warm coral and cool rose fabrics near your face. Use similar depth and brightness, a neutral background and your usual comfortable presentation. Compare the overall effect, rather than veins, ethnicity or hair colour.',
+      'Compare warm and cool colours using the optional digital drapes or real fabrics near your face in indirect daylight. Keep the same photo across digital comparisons. Screen settings, camera processing and photo lighting can change the effect; choose the combination you prefer, or unsure. This is your observation, not automatic face analysis.',
     options: [
       {
         value: 'Warm',
@@ -43,7 +43,7 @@ export const questions: Question[] = [
     id: 'depth',
     title: 'Which depth of colour feels most comfortable?',
     description:
-      'Compare light, medium and deep versions of a similar colour. Judge the fabric combination you enjoy near your face; this question does not ask whether your skin is light or dark.',
+      'Compare light, medium and deep versions of a similar colour with optional digital drapes or real fabrics. Use the same photo for each digital sample and consistent daylight for fabrics. Screens and photo lighting limit the comparison. Choose the colour depth you enjoy near your face; this does not ask whether your skin is light or dark.',
     options: [
       {
         value: 'Light',
@@ -73,7 +73,7 @@ export const questions: Question[] = [
     id: 'chroma',
     title: 'Do softer or clearer colours feel more harmonious?',
     description:
-      'Compare a dusty colour with a clear version at a similar depth and temperature. Your screen cannot faithfully reproduce physical fabric; try clothing you already own before buying anything.',
+      'Compare softer, moderately clear and brighter versions of a similar colour using optional digital drapes or real fabrics. Keep the same photo across digital samples. Screen settings, camera processing and lighting can affect apparent clarity; this is a preference comparison, not an image assessment. Real fabrics in consistent daylight can help, and unsure is always welcome.',
     options: [
       {
         value: 'Soft',
