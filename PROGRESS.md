@@ -66,3 +66,5 @@ Allowance after release: five-hour usage96%, weekly39%; five-hour reset9October2
 ## Remove repeated image labels
 
 User requested removing AI labels. Removed the generic per-image caption, AI wording in comparison captions and repeated footer disclosure. Retained useful comparison descriptions, alt text and the About-page imagery disclosure. User instruction supersedes the previous per-image labelling convention; AGENTS.md updated.
+
+Label removal released: PR3 merged after full three-engine CI. Reviewed preview9066eeb7 passed all50 routes/72 assets and representative rendered-page checks; mobile gallery visually reviewed. Production deployment ef596aab-1b20-4952-8f41-13efb931701a serves merge a1a198266f75d735b8d37897b2562f325a9f7e28. Production routes/assets/headers/404 and removal of repeated labels verified. About retains the central imagery disclosure.
