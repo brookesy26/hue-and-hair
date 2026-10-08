@@ -40,7 +40,7 @@ Build before using `preview`, and stop any development server using the same por
 
 The gallery stores length, texture, style and upkeep filters in its URL. Individual guides include styling, upkeep and suggested salon wording. The three-question assessment keeps answers only in page memory; refreshing clears them. Static guides and navigation have script-failure alternatives, while filtering and assessment require JavaScript.
 
-There are no accounts, photograph uploads, tracking scripts, saved favourites or application forms. Hosting may process technical request data. All generated imagery is labelled; screen colours are illustrative and are not physical fabric measurements.
+There are no accounts, server photo uploads, tracking scripts, saved favourites or application forms. Optional camera/photo draping processes a selected picture only in page memory, without transmitting it. Hosting may process technical request data. All generated imagery is labelled; screen colours are illustrative and are not physical fabric measurements.
 
 The website includes **72 separately generated and reviewed images**:60 hairstyle views,eight colour comparisons and four editorial assets. Published WebP files total 8.55 MB;177.1 MB of selected PNG originals are retained. Review records and SHA-256 hashes are documented in [image workflow](docs/images.md). Consult [verification](docs/verification.md) and `PROGRESS.md` for exact CI and deployment evidence.
 

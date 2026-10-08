@@ -17,9 +17,10 @@ export default function AssessmentPage() {
           <em>your colours.</em>
         </h1>
         <p className="lead">
-          Three questions to help you explore colour preferences. Compare real
-          fabrics in consistent daylight if you can. No uploads, no accounts, no
-          definitive labels.
+          Three questions to help you explore colour preferences. Add an
+          optional camera photo or choose a picture for digital colour
+          comparisons, or continue with real fabrics. Photos stay on your
+          device. No accounts or definitive labels.
         </p>
       </div>
       <Assessment />

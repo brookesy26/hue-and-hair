@@ -20,6 +20,9 @@ export default function Accessibility() {
       <p>
         Our pages respect reduced-motion preferences. The self-assessment
         includes an “unsure” choice and lets you review previous answers.
+        Optional photo comparisons have labelled colour controls and
+        keyboard-operated positioning sliders. You can complete every question
+        without a picture or camera permission.
       </p>
       <h2>JavaScript and images</h2>
       <p>
