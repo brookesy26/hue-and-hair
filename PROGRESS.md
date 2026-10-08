@@ -62,3 +62,7 @@ Git-backed preview `ab2cd16f-48ec-4f10-b322-85afea56773c` passed live Chromium/W
 Production confirmation: deployment `2c86c331-b870-430d-8f0a-61a6b567a2a9` completed successfully and serves merge `a88fca09c766bbc58cd6da9b14d04a57e9e8874c`. Canonical production passed 5 Chromium/WebKit photo journeys (one explicitly skipped non-Chromium synthetic camera fixture), all 50 routes, all 72 asset hashes, HTTPS redirect, genuine404, sitemap/robots and security headers. Live camera permission is same-origin only; microphone remains disabled. Updated content editing, architecture, privacy, accessibility evidence and rollback guidance are retained. The preceding production `e5481a21` is the rollback target. Upgrade complete, with physical device cameras and manual screen-reader review explicitly unverified.
 
 Allowance after release: five-hour usage96%, weekly39%; five-hour reset9October2026 01:26BST. User authorised using all remaining allowance for this implementation. No usage reset credit was consumed.
+
+## Remove repeated image labels
+
+User requested removing AI labels. Removed the generic per-image caption, AI wording in comparison captions and repeated footer disclosure. Retained useful comparison descriptions, alt text and the About-page imagery disclosure. User instruction supersedes the previous per-image labelling convention; AGENTS.md updated.
