@@ -1,0 +1,290 @@
+{
+  "/images/hairstyles/angled-bob-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/angled-bob-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/blunt-bob-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/blunt-bob-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/blunt-lob-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/blunt-lob-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/butterfly-layers-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/butterfly-layers-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/coily-rounded-crop-front.webp": {
+    "width": 1024,
+    "height": 936
+  },
+  "/images/hairstyles/coily-rounded-crop-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/coily-shape-front.webp": {
+    "width": 1024,
+    "height": 936
+  },
+  "/images/hairstyles/coily-shape-side.webp": {
+    "width": 1024,
+    "height": 1121
+  },
+  "/images/hairstyles/curly-bob-front.webp": {
+    "width": 1024,
+    "height": 1121
+  },
+  "/images/hairstyles/curly-bob-side.webp": {
+    "width": 1024,
+    "height": 1121
+  },
+  "/images/hairstyles/curly-pineapple-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/curly-pineapple-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/curly-pixie-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/curly-pixie-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/curly-shag-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/curly-shag-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/curly-side-part-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/curly-side-part-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/curtain-fringe-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/curtain-fringe-side.webp": {
+    "width": 1024,
+    "height": 1231
+  },
+  "/images/hairstyles/french-bob-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/french-bob-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/layered-curly-lob-front.webp": {
+    "width": 1024,
+    "height": 946
+  },
+  "/images/hairstyles/layered-curly-lob-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/long-blunt-fringe-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-blunt-fringe-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-box-braids-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-box-braids-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-coily-layers-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/long-coily-layers-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/long-curly-layers-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-curly-layers-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-straight-layers-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-straight-layers-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-wavy-layers-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/long-wavy-layers-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/low-loose-bun-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/low-loose-bun-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/shoulder-soft-waves-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/shoulder-soft-waves-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/soft-pixie-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/soft-pixie-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/tapered-coils-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/tapered-coils-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/textured-pixie-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/textured-pixie-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/twist-out-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/twist-out-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/two-strand-twists-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/two-strand-twists-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/wavy-half-up-front.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/wavy-half-up-side.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/hairstyles/wavy-lob-front.webp": {
+    "width": 1024,
+    "height": 936
+  },
+  "/images/hairstyles/wavy-lob-side.webp": {
+    "width": 1024,
+    "height": 1235
+  },
+  "/images/hairstyles/wavy-shag-front.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/hairstyles/wavy-shag-side.webp": {
+    "width": 1024,
+    "height": 1229
+  },
+  "/images/colour/comparison-01.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/images/colour/comparison-02.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/images/colour/comparison-03.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/images/colour/comparison-04.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/images/colour/comparison-05.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/images/colour/comparison-06.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/images/colour/comparison-07.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/images/colour/comparison-08.webp": {
+    "width": 1024,
+    "height": 683
+  },
+  "/images/editorial/about.webp": {
+    "width": 1600,
+    "height": 900
+  },
+  "/images/editorial/colour.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/editorial/hairstyles.webp": {
+    "width": 1024,
+    "height": 1536
+  },
+  "/images/editorial/hero.webp": {
+    "width": 1536,
+    "height": 1024
+  }
+}

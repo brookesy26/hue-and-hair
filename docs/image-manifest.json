@@ -1,0 +1,362 @@
+[
+  {
+    "path": "assets/originals/hairstyles/angled-bob-front.png",
+    "bytes": 2589145,
+    "sha256": "6f8fdc185e09ed691b44a1c12f2c0bb30a774c2b2a4a89ac3b6bbb9b313d5b62"
+  },
+  {
+    "path": "assets/originals/hairstyles/angled-bob-side.png",
+    "bytes": 2256090,
+    "sha256": "98c71153bbd124859a1b307bf2dd3a03215aca4b238d2e8c054eee5ffa55a682"
+  },
+  {
+    "path": "assets/originals/hairstyles/blunt-bob-front.png",
+    "bytes": 2406760,
+    "sha256": "2af125919e3805bdfcbd3aab444a26cf621bdda4d9772bd958f2670215dc1a5f"
+  },
+  {
+    "path": "assets/originals/hairstyles/blunt-bob-side.png",
+    "bytes": 2272023,
+    "sha256": "e3568c6a3930f91b7c10c06e484799ae9e174d940334c6639342a2b23f0f92c9"
+  },
+  {
+    "path": "assets/originals/hairstyles/blunt-lob-front.png",
+    "bytes": 2559104,
+    "sha256": "a6c8750994f751608d73911a3a5f8ad7de68a850f1b19007c005043bf7bb7000"
+  },
+  {
+    "path": "assets/originals/hairstyles/blunt-lob-side.png",
+    "bytes": 2289075,
+    "sha256": "926307451515e318ee253d4433123048fbc6938dc6814a4f2e71870ef91ff174"
+  },
+  {
+    "path": "assets/originals/hairstyles/butterfly-layers-front.png",
+    "bytes": 2693408,
+    "sha256": "9659cb25eb8ff38f8c5ff4102268f4ec21b8e7876c19ca4d74472c1d149dddb8"
+  },
+  {
+    "path": "assets/originals/hairstyles/butterfly-layers-side.png",
+    "bytes": 2384946,
+    "sha256": "7db521a60ea3385bda9da0c03054d7b859fafce607fe09318b93fb69e5562ac0"
+  },
+  {
+    "path": "assets/originals/hairstyles/coily-rounded-crop-front.png",
+    "bytes": 2444435,
+    "sha256": "66aa1b07f91fea8df40e4b76274161976a905b827a64a61fba18ce7c6099696d"
+  },
+  {
+    "path": "assets/originals/hairstyles/coily-rounded-crop-side.png",
+    "bytes": 2544714,
+    "sha256": "d9d1afd6b9ddd2d54220ecac42d647bc7eb707ebe1440d39c886368dec57d141"
+  },
+  {
+    "path": "assets/originals/hairstyles/coily-shape-front.png",
+    "bytes": 2511822,
+    "sha256": "157ca47d21e773b4e55497ff04312e1e1a23b4a75e9710fcd5f40a66b255271f"
+  },
+  {
+    "path": "assets/originals/hairstyles/coily-shape-side.png",
+    "bytes": 2365423,
+    "sha256": "2f45cccd5e88b02bad1fad92690417a9983735bbb954ce516b76f19cc6999ce4"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-bob-front.png",
+    "bytes": 2639109,
+    "sha256": "7cd1da90a33b0aa9f90c6aa2f259c628deed3ec67752c09e8010a701a3dee192"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-bob-side.png",
+    "bytes": 2332523,
+    "sha256": "8cddb490b0eddbd8b3eac33b688d57c71951cccd8e5186764bc3c6a221a6a0f1"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-pineapple-front.png",
+    "bytes": 2547088,
+    "sha256": "fa1eb3e0ae1a722dfacb0c4ed3cfe3bda1960633712c7af601e4129802809bba"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-pineapple-side.png",
+    "bytes": 2361150,
+    "sha256": "a957faf6c1dcad8225d9a5d04580b49ec6bffa0a3ef1fb3e652089a9495b711b"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-pixie-front.png",
+    "bytes": 2366784,
+    "sha256": "4afa25601752ccd444b02dd345d29241976a300e808714c416d51b1c91f807f4"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-pixie-side.png",
+    "bytes": 2145391,
+    "sha256": "25f737ff8e16bd248ea54611a2cbd770b3d177450cdf6c73737cd50e8df47672"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-shag-front.png",
+    "bytes": 2517782,
+    "sha256": "7bf6196a49359fba11d2d71076a379311f775401f58fd6ee68b44b3c0f9538af"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-shag-side.png",
+    "bytes": 2295815,
+    "sha256": "a6e7d6a8700dc1afcd3ba551081bdc55561baab5d755907b9d6e76c2aa4b6d47"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-side-part-front.png",
+    "bytes": 2611791,
+    "sha256": "6d7b796a0b86a9e5fb2ffb3faf82aaa6e0a04ffb59048a4c212ba05e5a6cac56"
+  },
+  {
+    "path": "assets/originals/hairstyles/curly-side-part-side.png",
+    "bytes": 2355995,
+    "sha256": "b83c47ec901eff3de1a05799d301470bf5fe5d0931abb9d3621a6110ef3e8285"
+  },
+  {
+    "path": "assets/originals/hairstyles/curtain-fringe-front.png",
+    "bytes": 2721112,
+    "sha256": "52aa3182691f61bcdf025f3bd329ac5b154d52cf929e5333b1d70862ed5c8ee1"
+  },
+  {
+    "path": "assets/originals/hairstyles/curtain-fringe-side.png",
+    "bytes": 2552854,
+    "sha256": "fad136b94700766134ef1c9cdf9d75d87bd5e6f36c189a5d0faba2d43df7b6cd"
+  },
+  {
+    "path": "assets/originals/hairstyles/french-bob-front.png",
+    "bytes": 2519822,
+    "sha256": "405861b1f81f098fc40433c051c9d7623b3b3a0ce227d18b21c55b5dbfc61663"
+  },
+  {
+    "path": "assets/originals/hairstyles/french-bob-side.png",
+    "bytes": 2331376,
+    "sha256": "924fd74e1601149a637b87982ba066d9f53a6cdd93ef8468d190ae47800f7a15"
+  },
+  {
+    "path": "assets/originals/hairstyles/layered-curly-lob-front.png",
+    "bytes": 2532670,
+    "sha256": "0530f1f6170395bda875d7a51266331ff24b50d5880529142f3f54e48d2418ca"
+  },
+  {
+    "path": "assets/originals/hairstyles/layered-curly-lob-side.png",
+    "bytes": 2354210,
+    "sha256": "8f69b59a7fb8d6c00420815c15342ca0c91dad2cf2cce3399c50ef283c8890ca"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-blunt-fringe-front.png",
+    "bytes": 2428576,
+    "sha256": "34ecb00d2c138652a43bf06633be6b3af53cc78e615561496f4183cd8401333d"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-blunt-fringe-side.png",
+    "bytes": 2227598,
+    "sha256": "961848fa39c2e7185ff8b9e012ab5ff640101963851f9e69e5b46ab39492fd0c"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-box-braids-front.png",
+    "bytes": 2181166,
+    "sha256": "8d65f19d3f3be640416e85a293b5ebea507da09ca7efee8b7f36cc0f2bad1db8"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-box-braids-side.png",
+    "bytes": 1952881,
+    "sha256": "d3d4291c2045ee265d57ad8f5012d257e14b35858cc501efed72efac92db3a13"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-coily-layers-front.png",
+    "bytes": 2534895,
+    "sha256": "b9c2de0af8d0818fbff4c539b2211b4728abbb08cbb6a9c0437183b86b8deb9b"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-coily-layers-side.png",
+    "bytes": 2326818,
+    "sha256": "6ff86322fa4fc3ba57cda5dc175ed0e32b8401fdae43666ddbb5d1e8dc160f13"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-curly-layers-front.png",
+    "bytes": 2654980,
+    "sha256": "1bb47e078cea1172df5679d92f78d0f601c1d40f003449aa91a6e142f52ba6ce"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-curly-layers-side.png",
+    "bytes": 2450205,
+    "sha256": "0cc981a27236334f7d5e698cabab72535aa051389790be8717ca6a5f421a776f"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-straight-layers-front.png",
+    "bytes": 2512253,
+    "sha256": "46bdddb0e6698e626505b492e35c015696d0ed6154e400a1c2827573e10e8bad"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-straight-layers-side.png",
+    "bytes": 2256283,
+    "sha256": "dc62e3f0f49b33e19e6055951e7dbe201d333b3688d7f7de1aa2c043f836a0bf"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-wavy-layers-front.png",
+    "bytes": 3073580,
+    "sha256": "dff55a8def940b5a80725a75d83b8de3bff24b4b15823118871a46de799ea1ac"
+  },
+  {
+    "path": "assets/originals/hairstyles/long-wavy-layers-side.png",
+    "bytes": 2713539,
+    "sha256": "8fe71900c884856d5263f6be9114a8a76a93bad7b6fe279d23dca425a5166df8"
+  },
+  {
+    "path": "assets/originals/hairstyles/low-loose-bun-front.png",
+    "bytes": 2371920,
+    "sha256": "20bec9110e2a2911e75fa3eb26f76da340478ce0864d03b093f155c61921c3c4"
+  },
+  {
+    "path": "assets/originals/hairstyles/low-loose-bun-side.png",
+    "bytes": 2186154,
+    "sha256": "429cb24a6d68faafba06220fb655d2e0e0cff28b23cb728470f5782a62b5b0d0"
+  },
+  {
+    "path": "assets/originals/hairstyles/shoulder-soft-waves-front.png",
+    "bytes": 2554779,
+    "sha256": "fbabdc804d7b1b389040c9cbcee1ce746ef08cbb22ba874d229dae01057df673"
+  },
+  {
+    "path": "assets/originals/hairstyles/shoulder-soft-waves-side.png",
+    "bytes": 2328894,
+    "sha256": "96903fade850416a70adae45a7cdabc4181924bb7f737c9d8a11befa652c2379"
+  },
+  {
+    "path": "assets/originals/hairstyles/soft-pixie-front.png",
+    "bytes": 2403898,
+    "sha256": "b60225df519d41b6c9753c5d37b78bc2465171ad6a405ddd655050ed1c9073b4"
+  },
+  {
+    "path": "assets/originals/hairstyles/soft-pixie-side.png",
+    "bytes": 2254588,
+    "sha256": "795a253412b5d94e0d6524a47711456e96c92812c3905162a21a1f819acc10c3"
+  },
+  {
+    "path": "assets/originals/hairstyles/tapered-coils-front.png",
+    "bytes": 2460521,
+    "sha256": "98353d62bd99d4c16a2b244d71fe1ba04578ee0bf3ff0e2693c0468510dc8367"
+  },
+  {
+    "path": "assets/originals/hairstyles/tapered-coils-side.png",
+    "bytes": 2421797,
+    "sha256": "01a893152138264eb8e148b4eae029f06a68d4ce8601317557f4b10b81af2305"
+  },
+  {
+    "path": "assets/originals/hairstyles/textured-pixie-front.png",
+    "bytes": 2350219,
+    "sha256": "0da008f83c2a4cdb10363c7250a88bd6b254755d401edf3f5e07e1eecdcc1102"
+  },
+  {
+    "path": "assets/originals/hairstyles/textured-pixie-side.png",
+    "bytes": 2225192,
+    "sha256": "12653c6ad64b6b509ee0e54e7e24d161b61d01f19fb4025054dbfce1e22901cd"
+  },
+  {
+    "path": "assets/originals/hairstyles/twist-out-front.png",
+    "bytes": 2633275,
+    "sha256": "2f8cf2eeeabc5fec6a083c07df10828ca3618438a804eea8c8f2455e0516f78a"
+  },
+  {
+    "path": "assets/originals/hairstyles/twist-out-side.png",
+    "bytes": 2365205,
+    "sha256": "52ca37c2805a3f9ef7e431ecf4053fe158ee6c2959d02944db31690bdbf665a8"
+  },
+  {
+    "path": "assets/originals/hairstyles/two-strand-twists-front.png",
+    "bytes": 2428729,
+    "sha256": "100d3e4f377ed9ea6c0c3333e75a5bfb4dea30aebf9d1357ee22b983c459ff61"
+  },
+  {
+    "path": "assets/originals/hairstyles/two-strand-twists-side.png",
+    "bytes": 2328735,
+    "sha256": "10a22b4a93c36ce845071d6e4f6ff07995184b669628b3ec5bb4228ddb17f002"
+  },
+  {
+    "path": "assets/originals/hairstyles/wavy-half-up-front.png",
+    "bytes": 2506196,
+    "sha256": "582337d8dcddcad038730f014a3bc3a9c4b758caf10e4793f6aa789fc4bdea44"
+  },
+  {
+    "path": "assets/originals/hairstyles/wavy-half-up-side.png",
+    "bytes": 2211779,
+    "sha256": "775da28127bf656c8fc1679f6b83cce748b45c252cdd45f029453d0e1b9df7fb"
+  },
+  {
+    "path": "assets/originals/hairstyles/wavy-lob-front.png",
+    "bytes": 2471778,
+    "sha256": "4000a77734901fd58de4b6c1e9fd3981d1c6fab8769d169af8cffe1d16eb401c"
+  },
+  {
+    "path": "assets/originals/hairstyles/wavy-lob-side.png",
+    "bytes": 2342903,
+    "sha256": "220b1245f8895ce9f8569f557ccd0e0d864c7f48a9cfd2c504a47505e21847df"
+  },
+  {
+    "path": "assets/originals/hairstyles/wavy-shag-front.png",
+    "bytes": 2568361,
+    "sha256": "09659dff639368a694c5ba808d7719532c55ab1bea965955f3787ee535319cea"
+  },
+  {
+    "path": "assets/originals/hairstyles/wavy-shag-side.png",
+    "bytes": 2397390,
+    "sha256": "d3e4837de78ac94a23a1736b7d866f56e9360cde4a87a1c0be8514ab03df7b07"
+  },
+  {
+    "path": "assets/originals/colour/comparison-01.png",
+    "bytes": 2592858,
+    "sha256": "06314e223ac3420790a73c259a73c3f49dc0f7c1f4b4ac8deb936e85ef513237"
+  },
+  {
+    "path": "assets/originals/colour/comparison-02.png",
+    "bytes": 2591815,
+    "sha256": "26aa07a75702a97a7efa6a0c24826cd219d3cc7dd3d9c49b92981c4cdf9b770c"
+  },
+  {
+    "path": "assets/originals/colour/comparison-03.png",
+    "bytes": 2437325,
+    "sha256": "a044ba89bd22e252992dd6a8a67bba1ca861dd0e3e810d030da4f4d8bc1e6680"
+  },
+  {
+    "path": "assets/originals/colour/comparison-04.png",
+    "bytes": 2898023,
+    "sha256": "e314193ea30bb1757bf0dea38c6e4be715f1f84a8cd777af671482695262eaa1"
+  },
+  {
+    "path": "assets/originals/colour/comparison-05.png",
+    "bytes": 2557240,
+    "sha256": "dd0380897e4680a0d27a44f25d6be5dcb5855d0422941e259ff5aaa766995232"
+  },
+  {
+    "path": "assets/originals/colour/comparison-06.png",
+    "bytes": 2650018,
+    "sha256": "da7859fea0b765f5a38df8be968ca09e42cdf6ccf23808d44c4d96e5819eb69e"
+  },
+  {
+    "path": "assets/originals/colour/comparison-07.png",
+    "bytes": 2314522,
+    "sha256": "f09c5be74ff017095f942f2d1eb46be93fe68ea72869c9384d14a45b16a86b47"
+  },
+  {
+    "path": "assets/originals/colour/comparison-08.png",
+    "bytes": 2699290,
+    "sha256": "1ae95c97cdb6252658e5c42313931e3b6f7eb6db9410f88d585782475c0a0403"
+  },
+  {
+    "path": "assets/originals/editorial/about.png",
+    "bytes": 3335049,
+    "sha256": "c3386a0212e43f05d18af69f763ead765b6d703dafefa2c97ccde33abaceb9a9"
+  },
+  {
+    "path": "assets/originals/editorial/colour.png",
+    "bytes": 2496449,
+    "sha256": "b102d11cadfd57d3b7cfa56204dd1d52b20a951f6cec1144ebf001169b773f4d"
+  },
+  {
+    "path": "assets/originals/editorial/hairstyles.png",
+    "bytes": 2468641,
+    "sha256": "aabb3eeed2b1e716d2e71406b1d74faa780ab4ac4d18eb5677ae955752f1de82"
+  },
+  {
+    "path": "assets/originals/editorial/hero.png",
+    "bytes": 2457925,
+    "sha256": "678a097db45af3e811aaceac4dc03d78399af2bbe48371a2cb2a7f3a9a2ef7bb"
+  }
+]

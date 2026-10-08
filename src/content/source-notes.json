@@ -1,0 +1,36 @@
+{
+  "reviewed": "2026-10-08",
+  "editorialApproach": "All hairstyle descriptions, routines, outfit ideas and hex swatches are original editorial content. Images are AI-generated illustrations. Trim intervals are flexible examples, not universal requirements. The 12 palettes are an illustrative website framework and are not an official palette from any cited provider.",
+  "sources": [
+    {
+      "title": "Hair styling without damage",
+      "organisation": "American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/hair-loss/hair-care/styling/",
+      "supports": "General caution about excessive heat and tight styles. The guides favour gentle handling, comfortable tension and lower heat rather than promising that a style prevents damage."
+    },
+    {
+      "title": "6 curly hair care tips from dermatologists",
+      "organisation": "American Academy of Dermatology",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/curly-hair-care",
+      "supports": "General curly and coily hair-care principles: conditioning, gentle detangling and managing long or thick hair in sections. Individual routines vary."
+    },
+    {
+      "title": "Colour Analysis",
+      "organisation": "Kettlewell",
+      "url": "https://kettlewellcolours.com/pages/colour-analysis",
+      "supports": "Seasonal styling vocabulary based on hue, value and chroma: warm/cool, light/deep and soft/clear. The site adapts these dimensions into an original exploratory tool. Commercial colour-analysis guidance is styling expertise, not a scientific validation of this questionnaire."
+    },
+    {
+      "title": "Your Colour Masterclass",
+      "organisation": "Kettlewell",
+      "url": "https://kettlewellcolours.com/blogs/the-colour-blog/your-colour-masterclass",
+      "supports": "Colour exists on a spectrum, with variation within seasonal palettes. Neighbouring palettes and uncertain results are therefore presented as options rather than definitive labels."
+    }
+  ],
+  "limitations": [
+    "A screen, photograph, generated image or brief self-assessment cannot replace physical fabric comparison under consistent lighting.",
+    "Palette names describe colour combinations, not gender, ethnicity or skin-tone categories.",
+    "The questionnaire uses an openly documented equal-weight editorial heuristic; it does not estimate diagnostic confidence.",
+    "The site makes no health, scientific validity or universally protective hairstyle claims."
+  ]
+}

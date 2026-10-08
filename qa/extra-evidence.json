@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-08",
+  "browser": "156.0.8078.4",
+  "textSpacing": "six templates at375px passed",
+  "baselines": "six templates plus suggestion and mobile drawer",
+  "axeStates": [
+    {
+      "state": "question1",
+      "violations": []
+    },
+    {
+      "state": "question2",
+      "violations": []
+    },
+    {
+      "state": "question3",
+      "violations": []
+    },
+    {
+      "state": "suggestion",
+      "violations": []
+    },
+    {
+      "state": "mobile-menu",
+      "violations": []
+    }
+  ],
+  "contrast": [
+    {
+      "name": "ink/cream",
+      "ratio": 13.78
+    },
+    {
+      "name": "muted/cream",
+      "ratio": 8.2
+    },
+    {
+      "name": "muted/paper",
+      "ratio": 7.28
+    },
+    {
+      "name": "white/plum",
+      "ratio": 12.15
+    },
+    {
+      "name": "focus/cream",
+      "ratio": 8.39
+    }
+  ],
+  "screenReader": "Not available through enabled native control; pending manual review",
+  "zoom": "200% text enlargement checked;320px reflow equivalent to1280px at400% browser zoom, actual browser zoom pending"
+}

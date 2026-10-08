@@ -1,0 +1,902 @@
+[
+  {
+    "slug": "soft-pixie",
+    "name": "Soft pixie",
+    "length": "Short",
+    "texture": "Straight",
+    "style": "Pixie",
+    "maintenance": "Medium",
+    "summary": "A light, tapered crop with a longer top that can be swept forward or to the side.",
+    "description": "Soft edges make this pixie feel relaxed rather than sharply sculpted. The longer crown leaves room to play with direction, while a close nape keeps the silhouette neat. Cowlicks and natural partings influence how the fringe sits; discuss them before cutting.",
+    "styling": [
+      "Work a small amount of light styling cream through damp hair.",
+      "Direct the top with fingers or a soft brush, following your natural parting.",
+      "Let it dry naturally, or use a low heat setting briefly; finish by separating a few pieces."
+    ],
+    "upkeep": [
+      "Book a shape check roughly every four to six weeks, adjusting to your growth and preference.",
+      "Avoid overloading fine hair with wax; a small amount is easier to build up."
+    ],
+    "salonRequest": "I'd like a softly tapered pixie with enough length on top for a side sweep, and a natural rather than hard-edged neckline.",
+    "images": [
+      {
+        "src": "/images/hairstyles/soft-pixie-front.webp",
+        "alt": "Front view of a soft pixie with a side-swept longer top."
+      },
+      {
+        "src": "/images/hairstyles/soft-pixie-side.webp",
+        "alt": "Side view showing the soft pixie's tapered nape and longer crown."
+      }
+    ]
+  },
+  {
+    "slug": "textured-pixie",
+    "name": "Textured pixie",
+    "length": "Short",
+    "texture": "Wavy",
+    "style": "Pixie",
+    "maintenance": "Medium",
+    "summary": "A short crop that lets natural waves create movement through the top.",
+    "description": "Rather than pressing waves flat, this cut keeps the crown long enough for them to bend. A softly tapered outline makes the top look fuller. The finished shape depends on wave direction and density, so bring a reference and arrive with your usual texture visible.",
+    "styling": [
+      "Scrunch a little lightweight mousse into damp waves.",
+      "Arrange the fringe loosely without repeatedly brushing it straight.",
+      "Air-dry or diffuse gently on low heat, then loosen the top with your fingertips."
+    ],
+    "upkeep": [
+      "Refresh the outline when the ears or nape start to lose their shape, often after four to six weeks.",
+      "Use less product at first; short waves can become stiff when heavily coated."
+    ],
+    "salonRequest": "Please keep the top long enough for my natural wave, with a soft taper around the ears and nape and no heavily thinned crown.",
+    "images": [
+      {
+        "src": "/images/hairstyles/textured-pixie-front.webp",
+        "alt": "Front view of a textured pixie with loose waves through the top."
+      },
+      {
+        "src": "/images/hairstyles/textured-pixie-side.webp",
+        "alt": "Side view of the wavy pixie's soft taper around the ear."
+      }
+    ]
+  },
+  {
+    "slug": "curly-pixie",
+    "name": "Curly pixie",
+    "length": "Short",
+    "texture": "Curly",
+    "style": "Pixie",
+    "maintenance": "Medium",
+    "summary": "Defined curls on top, balanced by a shorter, rounded outline.",
+    "description": "A curly pixie keeps the individual curl pattern visible while reducing the overall length. The fringe should be planned at its dry length because curls spring up after washing. A curl-aware stylist can assess where volume will sit without relying on a wet reference alone.",
+    "styling": [
+      "Apply leave-in conditioner or a light curl cream to damp hair if it suits your routine.",
+      "Define a few top curls with your fingers and avoid pulling the fringe taut.",
+      "Air-dry or diffuse on low heat; separate only after the curls are dry."
+    ],
+    "upkeep": [
+      "Check the dry shape around six to eight weeks, or when the crown starts to outgrow the sides.",
+      "Detangle gently while conditioned rather than brushing dry curls apart."
+    ],
+    "salonRequest": "I want a rounded curly pixie with a curl-length fringe. Please account for shrinkage and leave enough top length for definition.",
+    "images": [
+      {
+        "src": "/images/hairstyles/curly-pixie-front.webp",
+        "alt": "Front view of a curly pixie with defined curls and a short fringe."
+      },
+      {
+        "src": "/images/hairstyles/curly-pixie-side.webp",
+        "alt": "Side view showing the curly pixie's rounded top and shorter sides."
+      }
+    ]
+  },
+  {
+    "slug": "tapered-coils",
+    "name": "Tapered coils",
+    "length": "Short",
+    "texture": "Coily",
+    "style": "Tapered cut",
+    "maintenance": "Medium",
+    "summary": "A sculpted crown of natural coils with a gradual taper at the sides.",
+    "description": "The taper creates a clear silhouette without asking the crown to lie flat. Tight coils can have substantial shrinkage, so the height and width should be discussed in their dry state. The taper can be subtle or pronounced depending on how often you want the outline refreshed.",
+    "styling": [
+      "Moisturise and detangle gently in small sections as part of your wash routine.",
+      "Use a little defining product on damp coils, smoothing without pulling tightly.",
+      "Allow the coils to dry, then lift gently at the roots where you want more height."
+    ],
+    "upkeep": [
+      "Refresh the taper as needed, often every four to six weeks for a closely shaped outline.",
+      "Use a smooth bonnet or pillowcase if helpful, and avoid tight manipulation at the hairline."
+    ],
+    "salonRequest": "Please taper the sides gradually and keep a rounded crown of coils. I'd like you to assess the dry shrinkage before deciding the top length.",
+    "images": [
+      {
+        "src": "/images/hairstyles/tapered-coils-front.webp",
+        "alt": "Front view of natural tapered coils with a full rounded crown."
+      },
+      {
+        "src": "/images/hairstyles/tapered-coils-side.webp",
+        "alt": "Side view showing a gradual taper beneath the coily crown."
+      }
+    ]
+  },
+  {
+    "slug": "blunt-bob",
+    "name": "Blunt chin-length bob",
+    "length": "Short",
+    "texture": "Straight",
+    "style": "Bob",
+    "maintenance": "Medium",
+    "summary": "A clean chin-length outline with a smooth, understated finish.",
+    "description": "This compact bob puts the emphasis on its perimeter. It can sit with a centre or side part and works best when the length is chosen with the neck and natural hair movement in mind. Very dense hair may need carefully placed internal shaping to prevent an overly solid edge.",
+    "styling": [
+      "Apply a light heat protectant if you intend to blow-dry.",
+      "Dry with the airflow down the hair shaft, keeping the temperature low.",
+      "Guide the ends gently under with a brush, or let them settle naturally for a softer finish."
+    ],
+    "upkeep": [
+      "Refresh the perimeter roughly every six to eight weeks if you prefer a precise chin-length line.",
+      "Discuss density with your stylist before adding internal layers or thinning."
+    ],
+    "salonRequest": "I'd like a chin-length bob with a clean perimeter, minimal visible layers and a length that sits well with my natural parting.",
+    "images": [
+      {
+        "src": "/images/hairstyles/blunt-bob-front.webp",
+        "alt": "Front view of a straight chin-length bob with a clean perimeter."
+      },
+      {
+        "src": "/images/hairstyles/blunt-bob-side.webp",
+        "alt": "Side view of the classic bob's smooth chin-length outline."
+      }
+    ]
+  },
+  {
+    "slug": "french-bob",
+    "name": "Wavy French bob",
+    "length": "Short",
+    "texture": "Wavy",
+    "style": "Bob",
+    "maintenance": "Medium",
+    "summary": "A cheek-to-chin bob with a soft fringe and easy, lived-in waves.",
+    "description": "A French bob has a compact shape and a deliberately relaxed finish. Here, natural waves soften the perimeter and a light fringe frames the forehead. The fringe may require a little more daily attention than the rest of the cut, especially if it has a strong cowlick.",
+    "styling": [
+      "Scrunch a small amount of wave cream through damp mid-lengths.",
+      "Arrange the fringe while damp so it dries in the direction you want.",
+      "Let the waves dry undisturbed, then loosen them with your fingers."
+    ],
+    "upkeep": [
+      "Arrange fringe trims between full cuts if the length starts to bother your eyes.",
+      "Refresh the bob around six to eight weeks, or let it grow into a longer shape."
+    ],
+    "salonRequest": "I'd like a short French-style bob with a soft fringe, cut to work with my waves rather than requiring a daily straight blow-dry.",
+    "images": [
+      {
+        "src": "/images/hairstyles/french-bob-front.webp",
+        "alt": "Front view of a wavy French bob with a soft forehead fringe."
+      },
+      {
+        "src": "/images/hairstyles/french-bob-side.webp",
+        "alt": "Side view of the short French bob's relaxed wavy perimeter."
+      }
+    ]
+  },
+  {
+    "slug": "curly-bob",
+    "name": "Rounded curly bob",
+    "length": "Short",
+    "texture": "Curly",
+    "style": "Bob",
+    "maintenance": "Medium",
+    "summary": "A rounded bob with curl-aware layers that distribute volume around the face.",
+    "description": "The shape is compact but full, with layers that help curls sit together instead of building a heavy triangle at the ends. The guide image shows a chin-level dry shape; your wet length may need to be considerably longer to reach it after shrinkage.",
+    "styling": [
+      "Apply your preferred curl product in sections on damp, conditioned hair.",
+      "Scrunch upward and check that the fringe curls are not stretched flat.",
+      "Air-dry or diffuse on low heat; lift at the roots only when fully dry."
+    ],
+    "upkeep": [
+      "Ask for a dry shape review around eight to twelve weeks, depending on how quickly the silhouette changes.",
+      "Refresh flattened curls with a little water and gentle handling between washes."
+    ],
+    "salonRequest": "Please create a rounded curly bob with balanced volume and room for shrinkage. I'd like layers that support my curl pattern without taking away the perimeter.",
+    "images": [
+      {
+        "src": "/images/hairstyles/curly-bob-front.webp",
+        "alt": "Front view of a rounded curly bob framing the face with defined curls."
+      },
+      {
+        "src": "/images/hairstyles/curly-bob-side.webp",
+        "alt": "Side view showing balanced layers in a chin-level curly bob."
+      }
+    ]
+  },
+  {
+    "slug": "coily-rounded-crop",
+    "name": "Rounded coily crop",
+    "length": "Short",
+    "texture": "Coily",
+    "style": "Natural crop",
+    "maintenance": "Low",
+    "summary": "A compact, even shape that celebrates the density and texture of natural coils.",
+    "description": "This rounded crop uses its outline to create a balanced shape, with no requirement to define every coil. It can be worn softly picked out or more defined. Low styling time does not remove the need for a comfortable wash, conditioning and detangling routine.",
+    "styling": [
+      "Condition and gently detangle with enough slip for your hair.",
+      "Apply moisturising or defining product sparingly if desired.",
+      "Once dry, shape with your hands or lift carefully from the roots without tugging at the ends."
+    ],
+    "upkeep": [
+      "Maintain the outline when it becomes uneven, with timing based on your growth rather than a fixed rule.",
+      "Avoid pulling a comb repeatedly through dry, tightly coiled ends."
+    ],
+    "salonRequest": "I'd like a compact rounded natural crop with an even dry silhouette. Please preserve the density and assess shrinkage before taking length off.",
+    "images": [
+      {
+        "src": "/images/hairstyles/coily-rounded-crop-front.webp",
+        "alt": "Front view of a short natural coily crop with a rounded silhouette."
+      },
+      {
+        "src": "/images/hairstyles/coily-rounded-crop-side.webp",
+        "alt": "Side view of the coily crop's even rounded outline."
+      }
+    ]
+  },
+  {
+    "slug": "blunt-lob",
+    "name": "Blunt lob",
+    "length": "Medium",
+    "texture": "Straight",
+    "style": "Lob",
+    "maintenance": "Low",
+    "summary": "A collarbone-length bob with a substantial, nearly one-length edge.",
+    "description": "The lob offers the line of a bob with a little more length to tuck or tie back. Keeping the perimeter blunt can make fine hair appear fuller, although the right effect depends on density. It is versatile enough for a natural finish as well as an occasional smooth blow-dry.",
+    "styling": [
+      "Comb damp hair gently into your usual parting.",
+      "Apply a light leave-in product to the ends if they need it.",
+      "Air-dry for a natural bend or blow-dry on low heat with a heat protectant."
+    ],
+    "upkeep": [
+      "Trim the ends when needed, often around eight to twelve weeks for a tidy perimeter.",
+      "Check whether the chosen length clears your shoulders or flicks against them; either finish can be intentional."
+    ],
+    "salonRequest": "I'd like a collarbone lob with a fairly blunt edge and little visible layering. Please check that I can still tie it back if possible.",
+    "images": [
+      {
+        "src": "/images/hairstyles/blunt-lob-front.webp",
+        "alt": "Front view of a straight collarbone lob with a blunt lower edge."
+      },
+      {
+        "src": "/images/hairstyles/blunt-lob-side.webp",
+        "alt": "Side view of a collarbone-length lob with minimal layering."
+      }
+    ]
+  },
+  {
+    "slug": "wavy-lob",
+    "name": "Wavy lob",
+    "length": "Medium",
+    "texture": "Wavy",
+    "style": "Lob",
+    "maintenance": "Low",
+    "summary": "Shoulder-skimming length with gentle layers that let natural waves unfold.",
+    "description": "A wavy lob keeps enough weight for soft bends while adding a little movement through the lower half. It can be worn tousled without needing a perfect curl pattern. The cut should allow for how the ends behave when they touch your shoulders.",
+    "styling": [
+      "Apply light mousse through damp mid-lengths and ends.",
+      "Scrunch gently, then leave the wave pattern alone while it dries.",
+      "Tuck one side behind the ear or lift the roots with your fingertips once dry."
+    ],
+    "upkeep": [
+      "Check the perimeter and layers roughly every eight to twelve weeks.",
+      "Keep product near the ends if your roots flatten easily."
+    ],
+    "salonRequest": "Please give me a shoulder-skimming lob with gentle layers for my natural wave and enough weight to stop the ends feeling wispy.",
+    "images": [
+      {
+        "src": "/images/hairstyles/wavy-lob-front.webp",
+        "alt": "Front view of a shoulder-skimming lob with soft natural waves."
+      },
+      {
+        "src": "/images/hairstyles/wavy-lob-side.webp",
+        "alt": "Side view showing subtle lower layers in a wavy lob."
+      }
+    ]
+  },
+  {
+    "slug": "layered-curly-lob",
+    "name": "Layered curly lob",
+    "length": "Medium",
+    "texture": "Curly",
+    "style": "Lob",
+    "maintenance": "Medium",
+    "summary": "Shoulder-length curls with layers that make space for a rounded, lively shape.",
+    "description": "This longer curly bob sits near the shoulders when dry. Carefully placed layers can reduce heaviness while preserving full ends. Curl density and shrinkage matter more than matching the exact wet length in a reference photograph.",
+    "styling": [
+      "Work curl cream or gel through damp hair in manageable sections.",
+      "Scrunch the ends towards the roots and arrange the face-framing curls.",
+      "Dry gently without rough towel rubbing; release any firm product cast only after drying."
+    ],
+    "upkeep": [
+      "Review the layers as the shape grows, usually around eight to twelve weeks.",
+      "Use conditioner during detangling and support the section above any knot while working through it."
+    ],
+    "salonRequest": "I'd like a shoulder-length dry curly lob with rounded layers, full ends and face framing that accounts for my shrinkage.",
+    "images": [
+      {
+        "src": "/images/hairstyles/layered-curly-lob-front.webp",
+        "alt": "Front view of shoulder-length curls in a softly layered lob."
+      },
+      {
+        "src": "/images/hairstyles/layered-curly-lob-side.webp",
+        "alt": "Side view of the curly lob's rounded layers and full ends."
+      }
+    ]
+  },
+  {
+    "slug": "coily-shape",
+    "name": "Shoulder-length coily shape",
+    "length": "Medium",
+    "texture": "Coily",
+    "style": "Natural layers",
+    "maintenance": "Medium",
+    "summary": "A full medium-length silhouette with tailored layers for natural coils.",
+    "description": "This shape leaves space for coils to expand around the face and shoulders. Layers should be planned with density and dry shrinkage in mind rather than thinning the texture indiscriminately. You can wear a defined wash-and-style finish or gently stretch the hair for a different outline.",
+    "styling": [
+      "Detangle conditioned hair in sections and apply your usual leave-in product.",
+      "Define or gently stretch each section without excessive tension.",
+      "Let hair dry completely before separating or lifting to create the final shape."
+    ],
+    "upkeep": [
+      "Discuss trims according to end condition and changes in shape rather than a universal timetable.",
+      "Keep styling tension low and vary where clips or ties sit."
+    ],
+    "salonRequest": "Please shape my coils around shoulder level when dry, with balanced layers and density at the ends. I'd like options for both defined and gently stretched styling.",
+    "images": [
+      {
+        "src": "/images/hairstyles/coily-shape-front.webp",
+        "alt": "Front view of medium-length natural coils with a full layered shape."
+      },
+      {
+        "src": "/images/hairstyles/coily-shape-side.webp",
+        "alt": "Side view of shoulder-level coils with balanced volume."
+      }
+    ]
+  },
+  {
+    "slug": "curtain-fringe",
+    "name": "Curtain fringe and straight layers",
+    "length": "Medium",
+    "texture": "Straight",
+    "style": "Fringe",
+    "maintenance": "Medium",
+    "summary": "A parted fringe that opens around the eyes and blends into shoulder-length layers.",
+    "description": "Curtain pieces create framing without a solid fringe across the forehead. Their shortest point and graduation into the sides need to suit your natural parting. The fringe may need a quick refresh on days when the rest of your hair can be left alone.",
+    "styling": [
+      "Part the fringe while damp and guide each side away from the face.",
+      "Use low heat and a small brush only if needed to establish the bend.",
+      "Let the remaining layers settle naturally and finish with a tiny amount of cream at the ends."
+    ],
+    "upkeep": [
+      "Trim the fringe between full cuts if it stops sitting where you want.",
+      "Tell your stylist if you usually air-dry so the shortest pieces remain manageable."
+    ],
+    "salonRequest": "I'd like a centre-opening curtain fringe, softly blended into shoulder-length layers, with the shortest pieces long enough for my usual styling routine.",
+    "images": [
+      {
+        "src": "/images/hairstyles/curtain-fringe-front.webp",
+        "alt": "Front view of a centre-parted curtain fringe and straight shoulder layers."
+      },
+      {
+        "src": "/images/hairstyles/curtain-fringe-side.webp",
+        "alt": "Side view showing curtain pieces blending into medium straight layers."
+      }
+    ]
+  },
+  {
+    "slug": "wavy-shag",
+    "name": "Soft wavy shag",
+    "length": "Medium",
+    "texture": "Wavy",
+    "style": "Shag",
+    "maintenance": "Medium",
+    "summary": "Airy layers, a relaxed fringe and waves with room to move.",
+    "description": "A soft shag uses shorter crown layers to bring movement higher up the head. It has more texture than a lob and a less uniform perimeter. For low-density hair, keep the ends substantial and avoid excessive thinning so the shape does not become sparse.",
+    "styling": [
+      "Scrunch light mousse through damp hair, including the crown layers.",
+      "Set the fringe with your fingers and let the waves form naturally.",
+      "Air-dry or diffuse gently, then shake out the roots once dry."
+    ],
+    "upkeep": [
+      "Refresh the fringe and crown when they become heavy, often between six and ten weeks.",
+      "Discuss how much texture your density can support before removing bulk."
+    ],
+    "salonRequest": "I'd like a soft wavy shag with movement at the crown, a relaxed fringe and enough weight left at the ends for my density.",
+    "images": [
+      {
+        "src": "/images/hairstyles/wavy-shag-front.webp",
+        "alt": "Front view of a medium wavy shag with a relaxed fringe."
+      },
+      {
+        "src": "/images/hairstyles/wavy-shag-side.webp",
+        "alt": "Side view showing airy crown layers in a soft wavy shag."
+      }
+    ]
+  },
+  {
+    "slug": "curly-shag",
+    "name": "Curly shag",
+    "length": "Medium",
+    "texture": "Curly",
+    "style": "Shag",
+    "maintenance": "Medium",
+    "summary": "A curl-led fringe and shorter crown layers create a soft, expressive silhouette.",
+    "description": "The curly shag gives volume a deliberate home at the crown and around the face. The perimeter remains longer while the top is lighter. Fringe length must be checked after shrinkage, especially where the curl pattern differs between the front and back.",
+    "styling": [
+      "Distribute curl product through damp sections with gentle hands.",
+      "Encourage the shorter crown and fringe curls without stretching them.",
+      "Dry on low heat or naturally, then separate only a few curls for extra softness."
+    ],
+    "upkeep": [
+      "Arrange fringe trims if the curls start sitting in your eyes.",
+      "Review the shape around eight to twelve weeks, preserving enough length at the perimeter."
+    ],
+    "salonRequest": "Please create a curly shag with a dry curl fringe and shorter crown layers, while leaving a full longer perimeter and allowing for different curl patterns.",
+    "images": [
+      {
+        "src": "/images/hairstyles/curly-shag-front.webp",
+        "alt": "Front view of a curly shag with a soft curl fringe."
+      },
+      {
+        "src": "/images/hairstyles/curly-shag-side.webp",
+        "alt": "Side view showing the curly shag's shorter crown and longer perimeter."
+      }
+    ]
+  },
+  {
+    "slug": "long-straight-layers",
+    "name": "Long straight layers",
+    "length": "Long",
+    "texture": "Straight",
+    "style": "Layers",
+    "maintenance": "Low",
+    "summary": "Long hair with subtle lower layers and a softly shaped front.",
+    "description": "Long layers keep length while adding movement through the ends. This version avoids a heavily stepped outline and leaves the upper lengths mostly intact. The face-framing pieces can start below the chin if you want to keep them easy to tuck back.",
+    "styling": [
+      "Detangle from the ends upwards with a gentle comb or brush.",
+      "Apply a little leave-in care to the mid-lengths and ends if needed.",
+      "Air-dry or use a low-temperature blow-dry, following the natural fall of the layers."
+    ],
+    "upkeep": [
+      "Trim according to the condition of the ends, often around ten to twelve weeks.",
+      "Check that face-framing pieces still fit comfortably into your preferred tie-back style."
+    ],
+    "salonRequest": "I'd like long, subtle layers concentrated towards the bottom, with gentle face framing and a substantial perimeter.",
+    "images": [
+      {
+        "src": "/images/hairstyles/long-straight-layers-front.webp",
+        "alt": "Front view of long straight hair with subtle lower layers."
+      },
+      {
+        "src": "/images/hairstyles/long-straight-layers-side.webp",
+        "alt": "Side view showing long straight layers and gentle face framing."
+      }
+    ]
+  },
+  {
+    "slug": "long-wavy-layers",
+    "name": "Long wavy layers",
+    "length": "Long",
+    "texture": "Wavy",
+    "style": "Layers",
+    "maintenance": "Low",
+    "summary": "Flowing waves with long layers that keep the shape light without losing length.",
+    "description": "Long waves can flatten near the roots if the ends become very heavy. Gradual layers make space for bends while retaining a flowing outline. Ask for a shape that works with your usual drying method, rather than depending on a curling tool every day.",
+    "styling": [
+      "Smooth a light wave product through damp mid-lengths and ends.",
+      "Scrunch upwards gently and avoid repeatedly combing after the wave has formed.",
+      "Dry naturally or diffuse on low heat; lift the roots once the hair is dry."
+    ],
+    "upkeep": [
+      "Review the layers when the shape feels heavy, often around ten to twelve weeks.",
+      "Use ties that release easily and avoid pulling tightly on the same area every day."
+    ],
+    "salonRequest": "Please keep my length and add gradual layers that support my natural waves, with soft face framing and no overly thinned ends.",
+    "images": [
+      {
+        "src": "/images/hairstyles/long-wavy-layers-front.webp",
+        "alt": "Front view of long natural waves with gradual layers."
+      },
+      {
+        "src": "/images/hairstyles/long-wavy-layers-side.webp",
+        "alt": "Side view showing flowing long wavy layers and full ends."
+      }
+    ]
+  },
+  {
+    "slug": "long-curly-layers",
+    "name": "Long curly layers",
+    "length": "Long",
+    "texture": "Curly",
+    "style": "Layers",
+    "maintenance": "Medium",
+    "summary": "Long curls with balanced layers that create a flowing, rounded shape.",
+    "description": "Layers can release weight so curls form more freely, but the right placement varies with curl pattern and density. This shape keeps long ends and a softer outline around the face. Choose dry reference points with your stylist to avoid losing more apparent length than intended.",
+    "styling": [
+      "Detangle conditioned hair in sections, starting at the ends.",
+      "Apply curl product evenly and scrunch each section without rough rubbing.",
+      "Dry fully before separating curls or gently lifting the roots."
+    ],
+    "upkeep": [
+      "Reassess the dry shape and end condition around ten to twelve weeks.",
+      "Support the length during detangling so knots do not pull at the roots."
+    ],
+    "salonRequest": "I'd like long curly layers with a rounded dry shape, enough length at the bottom and face framing that respects my curl shrinkage.",
+    "images": [
+      {
+        "src": "/images/hairstyles/long-curly-layers-front.webp",
+        "alt": "Front view of long defined curls with balanced face-framing layers."
+      },
+      {
+        "src": "/images/hairstyles/long-curly-layers-side.webp",
+        "alt": "Side view of long curly layers creating a rounded flowing shape."
+      }
+    ]
+  },
+  {
+    "slug": "long-coily-layers",
+    "name": "Long coily layers",
+    "length": "Long",
+    "texture": "Coily",
+    "style": "Natural layers",
+    "maintenance": "Medium",
+    "summary": "Long natural coils shaped to distribute fullness while preserving the ends.",
+    "description": "The apparent length of coily hair changes significantly between stretched and unstretched states. Agree on which state your reference shows. These layers are intended to distribute volume gently while maintaining the density that helps long coils look full.",
+    "styling": [
+      "Work through conditioned hair in sections using a gentle detangling method.",
+      "Apply your chosen moisturising or defining products without excessive layering.",
+      "Allow each section to dry fully before separating, and keep root lifting gentle."
+    ],
+    "upkeep": [
+      "Discuss trims around changes in end condition and manageability rather than a fixed length goal.",
+      "Avoid repeated high-tension styling, particularly at the front and temples."
+    ],
+    "salonRequest": "Please preserve my long coily length and create gentle layers for balance. I'd like the outline planned in the dry state I usually wear.",
+    "images": [
+      {
+        "src": "/images/hairstyles/long-coily-layers-front.webp",
+        "alt": "Front view of long natural coils with a full layered silhouette."
+      },
+      {
+        "src": "/images/hairstyles/long-coily-layers-side.webp",
+        "alt": "Side view showing gentle shaping through long coily hair."
+      }
+    ]
+  },
+  {
+    "slug": "butterfly-layers",
+    "name": "Butterfly layers",
+    "length": "Long",
+    "texture": "Wavy",
+    "style": "Layers",
+    "maintenance": "High",
+    "summary": "Sweeping face layers and a long perimeter for a deliberately voluminous finish.",
+    "description": "Butterfly layers combine shorter face framing with long lower lengths. The polished swept-back finish often takes more styling time than a simple long cut. Ask to see how the shape falls naturally before committing to shorter pieces around the face.",
+    "styling": [
+      "Apply heat protectant before any warm-tool styling.",
+      "Use low heat to guide face-framing sections away from the face.",
+      "Let each section cool before loosening it; skip hot tools on days when a natural finish suits you."
+    ],
+    "upkeep": [
+      "Refresh the face-framing shape around six to ten weeks if the sweep is important to you.",
+      "Give your hair regular breaks from heat and avoid repeatedly passing tools over the same section."
+    ],
+    "salonRequest": "I'd like sweeping butterfly layers with a long perimeter. Please show me how short the front pieces will be and how they fall without a blow-dry.",
+    "images": [
+      {
+        "src": "/images/hairstyles/butterfly-layers-front.webp",
+        "alt": "Front view of long butterfly layers sweeping away from the face."
+      },
+      {
+        "src": "/images/hairstyles/butterfly-layers-side.webp",
+        "alt": "Side view showing shorter face layers above the long wavy perimeter."
+      }
+    ]
+  },
+  {
+    "slug": "long-blunt-fringe",
+    "name": "Long hair with a blunt fringe",
+    "length": "Long",
+    "texture": "Straight",
+    "style": "Fringe",
+    "maintenance": "High",
+    "summary": "A full forehead fringe paired with long, minimally layered straight hair.",
+    "description": "A strong fringe becomes the focal point of a simple long shape. It can need daily attention and regular small trims to stay comfortable. Natural cowlicks, hair density and the amount of hair brought forward will affect how solid the fringe looks.",
+    "styling": [
+      "Arrange the fringe while it is damp, following its natural growth pattern.",
+      "If needed, dry it briefly on low heat with a gentle brush.",
+      "Keep richer products away from the fringe and use them sparingly on the long ends."
+    ],
+    "upkeep": [
+      "Book fringe trims as it approaches your eyes; timing will depend on growth and preferred length.",
+      "Avoid cutting a damp fringe shorter at home without allowing for how it dries."
+    ],
+    "salonRequest": "I'd like a full blunt fringe with long straight lengths. Please check my cowlicks and agree the dry fringe length before cutting.",
+    "images": [
+      {
+        "src": "/images/hairstyles/long-blunt-fringe-front.webp",
+        "alt": "Front view of long straight hair with a full blunt forehead fringe."
+      },
+      {
+        "src": "/images/hairstyles/long-blunt-fringe-side.webp",
+        "alt": "Side view showing a blunt fringe paired with long straight lengths."
+      }
+    ]
+  },
+  {
+    "slug": "low-loose-bun",
+    "name": "Low loose bun",
+    "length": "Long",
+    "texture": "Straight",
+    "style": "Updo",
+    "maintenance": "Low",
+    "summary": "An easy low bun with a soft finish and comfortable tension.",
+    "description": "This everyday updo gathers length at the nape without needing a tightly slicked hairline. A few loose pieces can soften the finish, but they are optional. It should feel secure without tugging; a comfortable tie and pins can support the shape with less pressure.",
+    "styling": [
+      "Gather the hair loosely at the nape and secure it with a gentle tie.",
+      "Twist the length lightly and wrap it into a bun without pulling the roots tight.",
+      "Pin the ends, then loosen the crown slightly and check that the style feels comfortable."
+    ],
+    "upkeep": [
+      "Take the style down if it pulls, hurts or leaves the scalp feeling tender.",
+      "Vary the position of buns and ties instead of placing tension on the same area daily."
+    ],
+    "salonRequest": "For an occasion, I'd like a low loose bun with a soft crown and comfortable tension, with a few optional pieces around the face.",
+    "images": [
+      {
+        "src": "/images/hairstyles/low-loose-bun-front.webp",
+        "alt": "Front view of a soft low bun with relaxed face-framing pieces."
+      },
+      {
+        "src": "/images/hairstyles/low-loose-bun-side.webp",
+        "alt": "Side view showing a loose bun secured at the nape."
+      }
+    ]
+  },
+  {
+    "slug": "wavy-half-up",
+    "name": "Wavy half-up twist",
+    "length": "Long",
+    "texture": "Wavy",
+    "style": "Half-up",
+    "maintenance": "Low",
+    "summary": "A loose half-up twist that keeps waves visible while lifting hair away from the face.",
+    "description": "This simple arrangement uses a small top section and leaves most of the length free. It suits days when you want a little structure without restyling all your waves. Place the fastening where it feels comfortable and avoid a tight pull at the temples.",
+    "styling": [
+      "Separate a small section above each ear without disturbing the lower waves.",
+      "Twist the sections gently towards the back and secure them with a clip or pins.",
+      "Ease out a little crown volume and check the clip is not pressing against your scalp."
+    ],
+    "upkeep": [
+      "Remove pins carefully to avoid catching or breaking strands.",
+      "Change the section size or placement if the style pulls at your hairline."
+    ],
+    "salonRequest": "I'd like a relaxed half-up twist that shows my natural waves, with gentle crown volume and no tight tension at the temples.",
+    "images": [
+      {
+        "src": "/images/hairstyles/wavy-half-up-front.webp",
+        "alt": "Front view of long waves softly lifted into a half-up twist."
+      },
+      {
+        "src": "/images/hairstyles/wavy-half-up-side.webp",
+        "alt": "Side view showing a loose half-up twist above flowing waves."
+      }
+    ]
+  },
+  {
+    "slug": "curly-pineapple",
+    "name": "Loose curly pineapple",
+    "length": "Long",
+    "texture": "Curly",
+    "style": "Updo",
+    "maintenance": "Low",
+    "summary": "A loose high gathering that lets curls spill softly over the crown.",
+    "description": "The pineapple gathers curls high on the head while keeping the ends visible. It is a styling option rather than a cut, and the right placement depends on length and comfort. The tie should support the hair without digging in or pulling sharply at the edges.",
+    "styling": [
+      "Gather dry curls loosely towards the top of the head with your hands.",
+      "Secure with a soft, loose tie, using only as many wraps as needed.",
+      "Arrange the curls so they fall comfortably and release the style if the roots feel strained."
+    ],
+    "upkeep": [
+      "Avoid leaving a tight tie in place for long periods.",
+      "Refresh individual curls gently with a little water instead of pulling the whole style apart."
+    ],
+    "salonRequest": "I'd like a loose pineapple-style curly updo with the curls visible at the crown and comfortable tension around the hairline.",
+    "images": [
+      {
+        "src": "/images/hairstyles/curly-pineapple-front.webp",
+        "alt": "Front view of long curls loosely gathered over the crown."
+      },
+      {
+        "src": "/images/hairstyles/curly-pineapple-side.webp",
+        "alt": "Side view of a loose high curly pineapple with visible curl ends."
+      }
+    ]
+  },
+  {
+    "slug": "two-strand-twists",
+    "name": "Shoulder-length two-strand twists",
+    "length": "Medium",
+    "texture": "Coily",
+    "style": "Twists",
+    "maintenance": "Medium",
+    "summary": "Neat two-strand twists with a soft shoulder-length outline and gentle root tension.",
+    "description": "Two-strand twists organise the hair into paired sections while allowing a range of sizes and finishes. This example uses medium sections without extensions. It is a temporary style, so discuss preparation, comfortable tension and removal as well as the final appearance.",
+    "styling": [
+      "Start with gently detangled, conditioned hair in manageable sections.",
+      "Twist two sections around one another without tightening sharply at the root.",
+      "Let the twists dry fully and choose a light finish that avoids heavy build-up."
+    ],
+    "upkeep": [
+      "Follow a wash and scalp-care routine appropriate to your hair while wearing the twists.",
+      "Untwist patiently and detangle gently; do not keep a painful style in place."
+    ],
+    "salonRequest": "I'd like medium two-strand twists without extensions, around shoulder length where my hair allows, with gentle root tension and advice on washing and removal.",
+    "images": [
+      {
+        "src": "/images/hairstyles/two-strand-twists-front.webp",
+        "alt": "Front view of medium two-strand twists falling near the shoulders."
+      },
+      {
+        "src": "/images/hairstyles/two-strand-twists-side.webp",
+        "alt": "Side view showing evenly sized two-strand twists with a soft outline."
+      }
+    ]
+  },
+  {
+    "slug": "twist-out",
+    "name": "Soft twist-out",
+    "length": "Medium",
+    "texture": "Coily",
+    "style": "Twist-out",
+    "maintenance": "Medium",
+    "summary": "A softly defined, full shape created by gently unravelling completely dry twists.",
+    "description": "A twist-out temporarily changes the visible pattern without changing the haircut. Definition depends on section size, products and how completely the twists have dried. The aim here is a soft full silhouette, not perfect uniformity or a promise that every texture will behave the same way.",
+    "styling": [
+      "Prepare loose two-strand twists on conditioned hair, using your preferred light styling product.",
+      "Wait until the twists are completely dry before gently unravelling them.",
+      "Separate sparingly and lift from the roots if you want more volume."
+    ],
+    "upkeep": [
+      "Handle the ends gently while separating and avoid repeatedly raking through them.",
+      "Re-twist loosely if useful between washes, without adding excessive product or tension."
+    ],
+    "salonRequest": "I'd like a soft medium-length twist-out with fullness and gentle definition. Please keep the root tension low and show me a manageable section size.",
+    "images": [
+      {
+        "src": "/images/hairstyles/twist-out-front.webp",
+        "alt": "Front view of a full medium-length twist-out with soft definition."
+      },
+      {
+        "src": "/images/hairstyles/twist-out-side.webp",
+        "alt": "Side view showing the soft expanded silhouette of a twist-out."
+      }
+    ]
+  },
+  {
+    "slug": "long-box-braids",
+    "name": "Long box braids",
+    "length": "Long",
+    "texture": "Coily",
+    "style": "Braids",
+    "maintenance": "High",
+    "summary": "Long individual braids with clean sections and a comfortable, carefully checked fit.",
+    "description": "Box braids are an installed style, often using extensions, rather than a haircut. Installation and removal take time, even when daily styling is simple. Added length and weight can increase tension, so prioritise comfort, hairline care and a manageable size over copying an image exactly.",
+    "styling": [
+      "Discuss braid size, extension weight and comfortable tension with an experienced braider.",
+      "Wear the braids loose initially and avoid tightly pulling them into an updo.",
+      "Choose loose tie-back styles and release them if they tug at the front or temples."
+    ],
+    "upkeep": [
+      "Pain, stinging or bumps are reasons to have the tension addressed promptly rather than waiting for it to settle.",
+      "Plan scalp cleansing and careful removal with your stylist; do not assume any installed style is automatically protective."
+    ],
+    "salonRequest": "I'd like long box braids with modest extension weight and comfortable root tension. Please leave my edges free of pulling and discuss maintenance and careful removal.",
+    "images": [
+      {
+        "src": "/images/hairstyles/long-box-braids-front.webp",
+        "alt": "Front view of long individual box braids worn loose."
+      },
+      {
+        "src": "/images/hairstyles/long-box-braids-side.webp",
+        "alt": "Side view showing long box braids and their sectioned installation."
+      }
+    ]
+  },
+  {
+    "slug": "angled-bob",
+    "name": "Gently angled bob",
+    "length": "Short",
+    "texture": "Straight",
+    "style": "Bob",
+    "maintenance": "Medium",
+    "summary": "A softly graduated bob that is a little longer towards the front.",
+    "description": "The angle adds direction without an extreme stacked shape. The back remains compact and the front pieces skim the jaw. Discuss how steep you want the line and whether you need to tuck the front behind your ears; small changes can make a big difference to daily wear.",
+    "styling": [
+      "Part damp hair where it naturally settles.",
+      "Dry the back gently with low heat if you prefer a smooth outline.",
+      "Guide the front pieces forward or tuck one side for a softer everyday finish."
+    ],
+    "upkeep": [
+      "Refresh the back and perimeter around six to eight weeks for a clear angle.",
+      "Check the nape growth pattern before choosing a very short back section."
+    ],
+    "salonRequest": "I'd like a gently angled bob, slightly longer at the front, with a compact but natural back and no exaggerated stack.",
+    "images": [
+      {
+        "src": "/images/hairstyles/angled-bob-front.webp",
+        "alt": "Front view of a straight bob with slightly longer jaw-skimming pieces."
+      },
+      {
+        "src": "/images/hairstyles/angled-bob-side.webp",
+        "alt": "Side view showing the bob's gentle angle from back to front."
+      }
+    ]
+  },
+  {
+    "slug": "shoulder-soft-waves",
+    "name": "Shoulder-length soft waves",
+    "length": "Medium",
+    "texture": "Wavy",
+    "style": "One-length",
+    "maintenance": "Low",
+    "summary": "A simple shoulder-length outline that lets soft waves supply the movement.",
+    "description": "This near-one-length cut keeps styling choices open and avoids many short layers. Natural wave creates a soft bend at the ends. If the shoulder contact makes the hair flick out, treat that as part of the look or ask for a slightly different length.",
+    "styling": [
+      "Comb gently while damp, then scrunch a light product into the ends if desired.",
+      "Leave the hair to dry without repeatedly brushing through the wave.",
+      "Use your fingers to settle the parting and embrace any soft outward bends."
+    ],
+    "upkeep": [
+      "Trim according to end condition and preferred length, often around eight to twelve weeks.",
+      "Ask for subtle internal shaping only if your density needs it."
+    ],
+    "salonRequest": "I'd like shoulder-length soft waves with a simple, almost one-length outline that works with air-drying and keeps the ends full.",
+    "images": [
+      {
+        "src": "/images/hairstyles/shoulder-soft-waves-front.webp",
+        "alt": "Front view of shoulder-length hair with soft natural waves."
+      },
+      {
+        "src": "/images/hairstyles/shoulder-soft-waves-side.webp",
+        "alt": "Side view of a simple shoulder-length outline with softly bending ends."
+      }
+    ]
+  },
+  {
+    "slug": "curly-side-part",
+    "name": "Side-parted curly shape",
+    "length": "Medium",
+    "texture": "Curly",
+    "style": "Side part",
+    "maintenance": "Low",
+    "summary": "A medium curly cut worn with a relaxed side part for asymmetrical volume.",
+    "description": "Changing the part can shift the balance of a curly shape without a dramatic cut. This example keeps shoulder-level length and fuller volume on one side. Work with where your curls naturally separate rather than forcing an exact line through every curl.",
+    "styling": [
+      "Create a loose side part in damp hair with your fingers.",
+      "Apply curl product and scrunch, preserving the curl groups beside the part.",
+      "Dry fully before gently lifting the fuller side for a little extra height."
+    ],
+    "upkeep": [
+      "Ask for a cut that looks balanced both in your preferred parting and when it shifts.",
+      "Avoid repeatedly pulling damp curls across a fixed line if it disrupts their pattern."
+    ],
+    "salonRequest": "I'd like a shoulder-length curly shape that sits well with a relaxed side part and balanced layers, without losing too much fullness.",
+    "images": [
+      {
+        "src": "/images/hairstyles/curly-side-part-front.webp",
+        "alt": "Front view of medium curls with a relaxed side part and fuller volume on one side."
+      },
+      {
+        "src": "/images/hairstyles/curly-side-part-side.webp",
+        "alt": "Side view showing a balanced shoulder-level curly shape."
+      }
+    ]
+  }
+]
