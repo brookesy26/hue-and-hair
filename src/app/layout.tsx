@@ -58,8 +58,7 @@ export default function RootLayout({
           <div className="footer-bottom">
             <span>Made for curiosity. Made for everyone.</span>
             <p>
-              Guide images are AI-generated illustrations. Colour analysis is
-              personal styling guidance, not a diagnosis.
+              Colour analysis is personal styling guidance, not a diagnosis.
             </p>
           </div>
         </footer>

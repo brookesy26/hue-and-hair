@@ -4,7 +4,7 @@ export function Media({
   src,
   alt,
   className = '',
-  caption = 'AI-generated image',
+  caption,
   priority = false,
 }: {
   src: string;
@@ -30,7 +30,7 @@ export function Media({
         unoptimized
         sizes="(max-width: 700px) 100vw, 50vw"
       />
-      <figcaption>{caption}</figcaption>
+      {caption && <figcaption>{caption}</figcaption>}
     </figure>
   );
 }
