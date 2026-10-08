@@ -42,7 +42,9 @@ The gallery stores length, texture, style and upkeep filters in its URL. Individ
 
 There are no accounts, photograph uploads, tracking scripts, saved favourites or application forms. Hosting may process technical request data. All generated imagery is labelled; screen colours are illustrative and are not physical fabric measurements.
 
-The image target is **72 separately generated assets**: 60 hairstyle views, eight colour comparisons and four editorial images. Retained originals and published assets are documented in [image workflow](docs/images.md). Consult [verification](docs/verification.md) and `PROGRESS.md` for the actual delivery state; a target count is not evidence that every asset has completed generation or review.
+The website includes **72 separately generated and reviewed images**:60 hairstyle views,eight colour comparisons and four editorial assets. Published WebP files total 8.55 MB;177.1 MB of selected PNG originals are retained. Review records and SHA-256 hashes are documented in [image workflow](docs/images.md). Consult [verification](docs/verification.md) and `PROGRESS.md` for exact CI and deployment evidence.
+
+For extra QA with the static preview running, use `node scripts/extra-qa.mjs` to capture template/state references and measure contrast/text spacing, or `node scripts/performance-lab.mjs` for a single documented synthetic mobile run. Baselines are manual visual references rather than cross-platform pixel assertions. `node scripts/verify-live.mjs <https-url>` checks all 50 routes and 72 asset hashes, security headers, HTTPS redirects, SEO files and 404 responses.
 
 ## Handover
 

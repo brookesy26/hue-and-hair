@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-08T20:38:20.614Z",
+  "base": "https://hue-and-hair-c4w.pages.dev",
+  "browser": "156.0.8078.4",
+  "passed": [
+    "Tab reveals skip link",
+    "Enter moves focus to main",
+    "Select ArrowDown/Enter updates URL",
+    "Radio Space and left/right arrow operation",
+    "Enter advances question and focus moves to panel"
+  ],
+  "limits": "Browser keyboard events and visual focus inspection; no spoken screen-reader evaluation"
+}

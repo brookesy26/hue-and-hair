@@ -1,0 +1,579 @@
+{
+  "base": "https://hue-and-hair-c4w.pages.dev",
+  "checkedAt": "2026-10-08T20:36:43.075Z",
+  "routes": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/",
+      "status": 200
+    },
+    {
+      "path": "/self-assessment/",
+      "status": 200
+    },
+    {
+      "path": "/about/",
+      "status": 200
+    },
+    {
+      "path": "/privacy/",
+      "status": 200
+    },
+    {
+      "path": "/accessibility/",
+      "status": 200
+    },
+    {
+      "path": "/components/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/soft-pixie/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/textured-pixie/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/curly-pixie/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/tapered-coils/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/blunt-bob/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/french-bob/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/curly-bob/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/coily-rounded-crop/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/blunt-lob/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/wavy-lob/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/layered-curly-lob/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/coily-shape/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/curtain-fringe/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/wavy-shag/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/curly-shag/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/long-straight-layers/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/long-wavy-layers/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/long-curly-layers/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/long-coily-layers/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/butterfly-layers/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/long-blunt-fringe/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/low-loose-bun/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/wavy-half-up/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/curly-pineapple/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/two-strand-twists/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/twist-out/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/long-box-braids/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/angled-bob/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/shoulder-soft-waves/",
+      "status": 200
+    },
+    {
+      "path": "/hairstyles/curly-side-part/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/light-spring/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/true-spring/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/bright-spring/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/light-summer/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/true-summer/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/soft-summer/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/soft-autumn/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/true-autumn/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/deep-autumn/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/deep-winter/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/true-winter/",
+      "status": 200
+    },
+    {
+      "path": "/colour-analysis/bright-winter/",
+      "status": 200
+    }
+  ],
+  "assets": [
+    {
+      "path": "/images/hairstyles/angled-bob-front.webp",
+      "bytes": 160430,
+      "sha256": "92c6535df0e6b792cbd84eb571eaabf6bdc6b3586db99277e5d46c39ef5b26d0"
+    },
+    {
+      "path": "/images/hairstyles/angled-bob-side.webp",
+      "bytes": 108716,
+      "sha256": "cf7d01b6b01eecebe0807c4296dc695d8614d67ce631fbc42cb8f6f6a8450fbd"
+    },
+    {
+      "path": "/images/hairstyles/blunt-bob-front.webp",
+      "bytes": 127654,
+      "sha256": "423ab99492cfb543006b066bf4a962762213dda58dea9a3089d92e0e831e8178"
+    },
+    {
+      "path": "/images/hairstyles/blunt-bob-side.webp",
+      "bytes": 111854,
+      "sha256": "bccc2e502dc1a3ced44ef9426e5ce8c921e199495ca8d1c00583a6fe8b9e0070"
+    },
+    {
+      "path": "/images/hairstyles/blunt-lob-front.webp",
+      "bytes": 129530,
+      "sha256": "43b3f0a931a0029e37a6b64772d48b7cb0f15ce67496a62e966836b9ae8c29f4"
+    },
+    {
+      "path": "/images/hairstyles/blunt-lob-side.webp",
+      "bytes": 93706,
+      "sha256": "6a2ba86d29d0ec6eeac3d3375282ae00c8547dd3dc52fef6802fe3e09d97800f"
+    },
+    {
+      "path": "/images/hairstyles/butterfly-layers-front.webp",
+      "bytes": 176250,
+      "sha256": "1b4d58eab5b48a82c66343f8fa448308f6758ce279e00f4d301a88f1c9393f9c"
+    },
+    {
+      "path": "/images/hairstyles/butterfly-layers-side.webp",
+      "bytes": 128064,
+      "sha256": "d7f92447947f7cc5fe404393951e7df086a666e28ed2634e66f4d47b3fc2c00d"
+    },
+    {
+      "path": "/images/hairstyles/coily-rounded-crop-front.webp",
+      "bytes": 105636,
+      "sha256": "c0fc7db408173bbe02b36b05b69aae89a78ef8cacbc050ff6b49e9fda02346f5"
+    },
+    {
+      "path": "/images/hairstyles/coily-rounded-crop-side.webp",
+      "bytes": 145946,
+      "sha256": "9f705ec162017f7d00931ece60daa620533d59d998c4ca69885eb2c15cacffe2"
+    },
+    {
+      "path": "/images/hairstyles/coily-shape-front.webp",
+      "bytes": 104040,
+      "sha256": "dfae62bfaffdbea9eb775693ab65517b14fb96c1bdab563665f33427456d0183"
+    },
+    {
+      "path": "/images/hairstyles/coily-shape-side.webp",
+      "bytes": 104362,
+      "sha256": "a5fd2c214e161014c208f476a0b5f1c2fc36bb40fcde771dc6456f47fbd20bac"
+    },
+    {
+      "path": "/images/hairstyles/curly-bob-front.webp",
+      "bytes": 140016,
+      "sha256": "fa0d6b0804188f128b8d3f64d2788bbde18caf58a0dd99c50bcc869a2d1a6707"
+    },
+    {
+      "path": "/images/hairstyles/curly-bob-side.webp",
+      "bytes": 101680,
+      "sha256": "0390e711317d34e30e386d2e2cfc3c2aeebf12e81ea039375ec5114a7532136c"
+    },
+    {
+      "path": "/images/hairstyles/curly-pineapple-front.webp",
+      "bytes": 159894,
+      "sha256": "0b6dc39b8fa4a54d2a3b149cc7f0375c43b8b88c1e1d24d7dff9d7a2f56a0ab9"
+    },
+    {
+      "path": "/images/hairstyles/curly-pineapple-side.webp",
+      "bytes": 131266,
+      "sha256": "2924f8eeef4008b5ed347a24ee514c425b9ecb742021b74242e503cc31f484cf"
+    },
+    {
+      "path": "/images/hairstyles/curly-pixie-front.webp",
+      "bytes": 109768,
+      "sha256": "61493788240160e6049581bcc60af0ab75dfc95a157033d54a2be0e0d0b9996c"
+    },
+    {
+      "path": "/images/hairstyles/curly-pixie-side.webp",
+      "bytes": 77712,
+      "sha256": "64e563b511deb2daddd582abbfe4b676bf253b97285ca0bd4553aed50213f749"
+    },
+    {
+      "path": "/images/hairstyles/curly-shag-front.webp",
+      "bytes": 129652,
+      "sha256": "c471e3ecda9634d88f39e58068cb4e8d5907dd6d73b9a4a3751b07a306eaaa64"
+    },
+    {
+      "path": "/images/hairstyles/curly-shag-side.webp",
+      "bytes": 102700,
+      "sha256": "9376e8ee65795774a9eeff44a215db2c9d50aa749b105be48bd2552e2a4a34cc"
+    },
+    {
+      "path": "/images/hairstyles/curly-side-part-front.webp",
+      "bytes": 144790,
+      "sha256": "31a3d14966e90864f31878147fbc20a8bdf4c0bed0b22f2863f8553fd641d669"
+    },
+    {
+      "path": "/images/hairstyles/curly-side-part-side.webp",
+      "bytes": 114352,
+      "sha256": "d9d05bcae469f36bb4adc6e8447d7472e8ff9fea3faa50f3a57ebf8254524028"
+    },
+    {
+      "path": "/images/hairstyles/curtain-fringe-front.webp",
+      "bytes": 151178,
+      "sha256": "8226aac3257a278ea7fc762056518fba4670bac5a19b1a0bf122a34b2ea035d5"
+    },
+    {
+      "path": "/images/hairstyles/curtain-fringe-side.webp",
+      "bytes": 134580,
+      "sha256": "32146e06bc337dd65ac626f08f7733e7a0e5f45885ea9ee0e24a689f90190edd"
+    },
+    {
+      "path": "/images/hairstyles/french-bob-front.webp",
+      "bytes": 125608,
+      "sha256": "c8edc2cb061aa2e39a72bdff81b2851a5cfaf00db5456564cb2d292046ab050c"
+    },
+    {
+      "path": "/images/hairstyles/french-bob-side.webp",
+      "bytes": 97854,
+      "sha256": "7e7be1529e01664c0a2778ba531ff03214effb582004fc95ffe10e554311832c"
+    },
+    {
+      "path": "/images/hairstyles/layered-curly-lob-front.webp",
+      "bytes": 107150,
+      "sha256": "0306667939119df2a95ac82343545a6acf7c552e7a407f6b351624d2c27010a9"
+    },
+    {
+      "path": "/images/hairstyles/layered-curly-lob-side.webp",
+      "bytes": 110792,
+      "sha256": "8779ed44daaeb7643ccf2460c3e83b050ab154f22fe4265681394f6743524a0f"
+    },
+    {
+      "path": "/images/hairstyles/long-blunt-fringe-front.webp",
+      "bytes": 133922,
+      "sha256": "ac51071f922c3960cf06055762b3a53efade36067ed19a45b2ef4f6a9c21b3f4"
+    },
+    {
+      "path": "/images/hairstyles/long-blunt-fringe-side.webp",
+      "bytes": 99992,
+      "sha256": "b842cb89ee6a3ed667c13953bc161e5e7a84dfdaa8e0346f126a42b313391d28"
+    },
+    {
+      "path": "/images/hairstyles/long-box-braids-front.webp",
+      "bytes": 98548,
+      "sha256": "1f59d059c5dc3fc148b8aaf64aaf1edb33437bf9084c8a112addc9776f16186d"
+    },
+    {
+      "path": "/images/hairstyles/long-box-braids-side.webp",
+      "bytes": 73890,
+      "sha256": "4ce31353914cd52957f63dc052503b709037f322d5b45a8f3d07b780bacdf13c"
+    },
+    {
+      "path": "/images/hairstyles/long-coily-layers-front.webp",
+      "bytes": 134496,
+      "sha256": "4aaba6f544737b97d6f35235665fdc46970af6f3ef84fd3ace00c205c2564096"
+    },
+    {
+      "path": "/images/hairstyles/long-coily-layers-side.webp",
+      "bytes": 108170,
+      "sha256": "33f30d4769446bcf38c9d8c7942dee460cf75e69d65a1a82dfc9fe85a4f82e4c"
+    },
+    {
+      "path": "/images/hairstyles/long-curly-layers-front.webp",
+      "bytes": 179726,
+      "sha256": "b0ac83f846504fdb0e7db1895131232f5cb04d9d4bb20bd106b61c9628b23a40"
+    },
+    {
+      "path": "/images/hairstyles/long-curly-layers-side.webp",
+      "bytes": 146256,
+      "sha256": "acec02b847f4d750dfeda59feab4a6fa108d2081ff76f0b5e37c9501425261c2"
+    },
+    {
+      "path": "/images/hairstyles/long-straight-layers-front.webp",
+      "bytes": 138080,
+      "sha256": "6436992aff2a2f48bdfe032c0ef438861dfcad91839f41f28e1d63291987d1e2"
+    },
+    {
+      "path": "/images/hairstyles/long-straight-layers-side.webp",
+      "bytes": 107080,
+      "sha256": "1c107d88105a95103a1c06de9621458472c37da228c1acc8b393de9c78c14c8f"
+    },
+    {
+      "path": "/images/hairstyles/long-wavy-layers-front.webp",
+      "bytes": 245634,
+      "sha256": "6101a5f0cb2fda0258b730dd59bfaaaa663aa7d37589ab8fbe464df79b6964a7"
+    },
+    {
+      "path": "/images/hairstyles/long-wavy-layers-side.webp",
+      "bytes": 184734,
+      "sha256": "1d58d3497e88f49374e0d30282ef4a30e8e22f57db4cf7c4e522f62e10fc76a8"
+    },
+    {
+      "path": "/images/hairstyles/low-loose-bun-front.webp",
+      "bytes": 96942,
+      "sha256": "b4cb9c65506760940cf681a8e8bf50e078c606a017bccb153bfeb43d243998d1"
+    },
+    {
+      "path": "/images/hairstyles/low-loose-bun-side.webp",
+      "bytes": 76984,
+      "sha256": "42f33d91b9601ee092923fd6ee41376b47aee3356b6b2c8e02a6bcd2b766e467"
+    },
+    {
+      "path": "/images/hairstyles/shoulder-soft-waves-front.webp",
+      "bytes": 125300,
+      "sha256": "bb6336ea3572a900033b3be6f78ceb3da8083d9e09f848521c03bcb0060a4fe4"
+    },
+    {
+      "path": "/images/hairstyles/shoulder-soft-waves-side.webp",
+      "bytes": 100810,
+      "sha256": "11b77d03c9b0b942ae9abce9c217a6dc4322b28df2361c2093647fdc920bfff0"
+    },
+    {
+      "path": "/images/hairstyles/soft-pixie-front.webp",
+      "bytes": 113102,
+      "sha256": "bc61448144b4681a66c536a05d545468056bc3f71ebaa59dd49bdc77a16478a9"
+    },
+    {
+      "path": "/images/hairstyles/soft-pixie-side.webp",
+      "bytes": 92876,
+      "sha256": "da0ca58e08ec1027e0173b6a1fea45b464d9b89f0efc01a481307fc6bb71334b"
+    },
+    {
+      "path": "/images/hairstyles/tapered-coils-front.webp",
+      "bytes": 127698,
+      "sha256": "f68cb56baf1a12c651fba7328f2864cc662c286e384b64a4d5c01b3a99f6a549"
+    },
+    {
+      "path": "/images/hairstyles/tapered-coils-side.webp",
+      "bytes": 126260,
+      "sha256": "4ed6b9cc7cefd3c68bd828556ad701d52f7a078dc14f4120665378978d1eb28b"
+    },
+    {
+      "path": "/images/hairstyles/textured-pixie-front.webp",
+      "bytes": 107926,
+      "sha256": "2f187f91f4472d0b639eabf1c45c935dd50477fd7f3310502816b118c2035c39"
+    },
+    {
+      "path": "/images/hairstyles/textured-pixie-side.webp",
+      "bytes": 90720,
+      "sha256": "a2d77cc8d725fc329f1679e22fc5ff6b7238c642d136333e1fc2055134d2967b"
+    },
+    {
+      "path": "/images/hairstyles/twist-out-front.webp",
+      "bytes": 146460,
+      "sha256": "cbbe91fac5a264e0102f7b9625b85ca25bf5f423385b924624883689aca571c1"
+    },
+    {
+      "path": "/images/hairstyles/twist-out-side.webp",
+      "bytes": 117454,
+      "sha256": "05570a1b9923ab6bb57ae5069d907b58d0f53a39bb99b233e823dfdeaac9b5bf"
+    },
+    {
+      "path": "/images/hairstyles/two-strand-twists-front.webp",
+      "bytes": 114322,
+      "sha256": "9785346459100d9a11d513c1e07daba0f908773b8061c05de6193781a09b3bb8"
+    },
+    {
+      "path": "/images/hairstyles/two-strand-twists-side.webp",
+      "bytes": 114324,
+      "sha256": "8a51a2877b4c0299737a15ccc3fb8f96e2a9b2aa9ffddb3d5037003d5378a854"
+    },
+    {
+      "path": "/images/hairstyles/wavy-half-up-front.webp",
+      "bytes": 142970,
+      "sha256": "db0f515565d9bd8be710b012a7b545507246bb70217eb75753acd004fbee4de8"
+    },
+    {
+      "path": "/images/hairstyles/wavy-half-up-side.webp",
+      "bytes": 96256,
+      "sha256": "abad0e50a27ebf074696684b807a78a393a84f9a2b2be85839ad3316515bd893"
+    },
+    {
+      "path": "/images/hairstyles/wavy-lob-front.webp",
+      "bytes": 90740,
+      "sha256": "70d7e38ae48094198956d35bb154513fa52fb49429a437a1e10fec13928a1eaa"
+    },
+    {
+      "path": "/images/hairstyles/wavy-lob-side.webp",
+      "bytes": 101488,
+      "sha256": "50a51f3eb5b1c6dbdece12d200e59316e400db87721bbd9154f5271d384c4a77"
+    },
+    {
+      "path": "/images/hairstyles/wavy-shag-front.webp",
+      "bytes": 125016,
+      "sha256": "7094a0a588e1a3e75a41b0ab81d233dcc77679cba8c2598437f00777e4d7db8e"
+    },
+    {
+      "path": "/images/hairstyles/wavy-shag-side.webp",
+      "bytes": 106954,
+      "sha256": "228c31d8689cf4de3b2a35cf21af86750d8b84fd6c5b482decc879f065d67934"
+    },
+    {
+      "path": "/images/colour/comparison-01.webp",
+      "bytes": 59914,
+      "sha256": "5c7d4de51024bf903007e3df9aaba985c9abcc967d6b27b8e14a6c565f977f6e"
+    },
+    {
+      "path": "/images/colour/comparison-02.webp",
+      "bytes": 65992,
+      "sha256": "e1c2d6cbeedfe77315b8ef8f08188cde704c1b99d363ef6c1d68c1c36e5e58e8"
+    },
+    {
+      "path": "/images/colour/comparison-03.webp",
+      "bytes": 53738,
+      "sha256": "2125e3b88cb923c565e6c99fc30813a5f571095b3ebf28a25f14e7941b9b47f5"
+    },
+    {
+      "path": "/images/colour/comparison-04.webp",
+      "bytes": 93214,
+      "sha256": "fe0c92883072b57aa2611a6f587bcd9cff0b03200a6a5bf0069ea2ac9c661668"
+    },
+    {
+      "path": "/images/colour/comparison-05.webp",
+      "bytes": 57066,
+      "sha256": "54b21377a200a82161495f3648316e21fd05685f6243a6b3caea0eb6040d4f42"
+    },
+    {
+      "path": "/images/colour/comparison-06.webp",
+      "bytes": 69282,
+      "sha256": "6b4c9d82b5ce03cfc3bc918d92e6cc17645843ddc6522fe9069555d6c631f142"
+    },
+    {
+      "path": "/images/colour/comparison-07.webp",
+      "bytes": 39432,
+      "sha256": "be8891e454829b0ecd6c89228f1e778ec44c4f51fcb3b58d0d46b156704418fa"
+    },
+    {
+      "path": "/images/colour/comparison-08.webp",
+      "bytes": 80614,
+      "sha256": "2730540fba2dc7114f09c0613d8dc9ce38c8189be5804f3d049b1df21e792bc9"
+    },
+    {
+      "path": "/images/editorial/about.webp",
+      "bytes": 280916,
+      "sha256": "f3602a75fd28ff1750a7290125f84bb79aac65967499206442bbde9733cc7297"
+    },
+    {
+      "path": "/images/editorial/colour.webp",
+      "bytes": 149624,
+      "sha256": "d27f8966078e0fd08e7ba0880886bb8112be6654970fbef0eb801d4a8003cf13"
+    },
+    {
+      "path": "/images/editorial/hairstyles.webp",
+      "bytes": 157856,
+      "sha256": "b2f590b8637a40bf85cccd367492a8a57829c5eee2c154594de57cfc0df050e6"
+    },
+    {
+      "path": "/images/editorial/hero.webp",
+      "bytes": 146482,
+      "sha256": "98f649590d6caff729e01b0f9bbc6c31093d08e8a67f6a5501cc9835eba5c7b5"
+    }
+  ],
+  "headers": {
+    "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()"
+  },
+  "missingStatus": 404,
+  "httpRedirect": 301,
+  "robots": "passed",
+  "sitemap": "passed"
+}

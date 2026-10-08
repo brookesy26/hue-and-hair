@@ -75,8 +75,12 @@ export function SiteHeader() {
               'button, a[href]',
             );
           event.preventDefault();
-          const index = Array.from(controls).indexOf(document.activeElement as HTMLElement);
-          const next = (index + (event.shiftKey ? -1 : 1) + controls.length) % controls.length;
+          const index = Array.from(controls).indexOf(
+            document.activeElement as HTMLElement,
+          );
+          const next =
+            (index + (event.shiftKey ? -1 : 1) + controls.length) %
+            controls.length;
           controls[next]?.focus();
         }}
       >

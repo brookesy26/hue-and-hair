@@ -74,7 +74,10 @@ if (process.argv.includes('--status')) {
   );
 }
 if (process.argv.includes('--jobs')) {
-  const data = await request('/actions/runs/37838913050/jobs');
+  const latest = (
+    await request('/actions/runs?branch=feat%2Fwebsite&per_page=1')
+  ).workflow_runs[0];
+  const data = await request(`/actions/runs/${latest.id}/jobs`);
   console.log(
     JSON.stringify(
       data.jobs.map((j) => ({
@@ -109,4 +112,26 @@ if (process.argv.includes('--merge')) {
       }),
     ),
   );
+}
+
+if (process.argv.includes('--update')) {
+  const p = (
+    await request('/pulls?head=brookesy26:feat/website&state=open')
+  )[0];
+  console.log(
+    JSON.stringify({
+      updated: (
+        await request(`/pulls/${p.number}`, 'PATCH', {
+          body: await readFile('docs/pull-request.md', 'utf8'),
+        })
+      ).html_url,
+    }),
+  );
+}
+if (process.argv.includes('--cancel-old')) {
+  const response = await fetch(api + '/actions/runs/37838847696/cancel', {
+    method: 'POST',
+    headers,
+  });
+  console.log(JSON.stringify({ cancelSupersededStatus: response.status }));
 }

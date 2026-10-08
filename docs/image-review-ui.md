@@ -32,7 +32,7 @@ Sides use the selected front portrait as edit target and request only a camera c
 
 Generated illustrations can introduce strand or facial details that vary between viewpoints. Review found no obvious identity substitution, malformed anatomy, text, watermarks, or duplicate panels in selected images. This does not establish salon outcomes or exact real-world hair behaviour. Website CSS crops may still need browser review; originals show complete hair.
 
-Optimisation handed to root to avoid concurrent writes; root produces 1024px-wide WebP at quality 82 while retaining PNG originals.
+Optimisation handed to root to avoid concurrent writes; root produces 1024 px-wide WebP at quality 82 while retaining PNG originals.
 
 ## Front prompt specifications
 
@@ -95,3 +95,13 @@ Single-view professional editorial hair reference photograph of the SAME adult w
 ### curly-side-part
 
 Single-view professional editorial hair reference photograph of the SAME adult woman aged 49, light brown skin, dark curls with side-parted curly shape. A medium curly cut worn with a relaxed side part for asymmetrical volume. Changing the part can shift the balance of a curly shape without a dramatic cut. This example keeps shoulder-level length and fuller volume on one side. Work with where your curls naturally separate rather than forcing an exact line through every curl. Hair texture: curly; visible length: medium. Single front-facing portrait, head and upper torso. One person, one view. Plain warm cream studio background, matte charcoal crew-neck top, soft natural diffuse light, authentic skin texture, realistic strands, no beauty filter, no text, no typography, no watermarks, no collage borders. Hair fully visible without cropping the top or ends. Polished inclusive editorial photography for a hairstyle guide, calm neutral expression.
+
+## Mobile website visual QA
+
+Reviewed 50 saved mobile route screenshots at 375 px width on 8 October 2026. Created and inspected five top contact sheets and five bottom contact sheets in qa/mobile-sheet-_.png and qa/mobile-bottom-sheet-_.png. Also inspected ten middle segments across the home, hairstyle gallery and colour-analysis index to review their complete long-page layout. Contact sheets are technical QA thumbnails, not generated image assets.
+
+Inspected full mobile template screenshots for self-assessment, long box braids and Bright Spring. Captured and inspected five hydrated Chromium interactive states: mobile menu, Short/Straight gallery results (3), valid Short/Braids empty combination (0), tentative multi-palette result, and all-unsure result. State captures are qa/mobile-*-state.png. Waited for hydration and scrolled the filtered gallery to load its lazy images before capturing.
+
+Observed consistent heading wraps, intact page edges, clear controls, complete hairstyle detail views, readable body copy, no overlapping content, and stable footer/salon-note layout. Result cards stack properly and both uncertain-result actions remain usable. No new material defect found. The already identified editorial gallery crop and small mobile metadata/captions were handled by root; newly captured gallery states show the complete editorial subject and enlarged metadata/captions.
+
+Earlier page screenshots still show pre-fix small captions and unlinked palette-exploration names. Root owns the final source/build verification for these changes. This visual review covers the captured 375 px layouts; it does not establish WCAG conformance, screen-reader support or all viewport behaviour. Browser functional/accessibility checks remain part of root verification.

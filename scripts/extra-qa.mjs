@@ -17,10 +17,19 @@ for (const [name, path] of [
   ['quiz', '/self-assessment/'],
 ]) {
   await page.goto('http://127.0.0.1:3300' + path);
-  await page
-    .locator('img')
-    .evaluateAll((imgs) => imgs.forEach((i) => (i.loading = 'eager')));
-  await page.waitForTimeout(150);
+  await page.locator('img').evaluateAll(async (imgs) => {
+    await Promise.all(
+      imgs.map(
+        (img) =>
+          new Promise((resolve) => {
+            img.loading = 'eager';
+            if (img.complete) return resolve();
+            img.addEventListener('load', resolve, { once: true });
+            img.addEventListener('error', resolve, { once: true });
+          }),
+      ),
+    );
+  });
   await page.screenshot({ path: `qa/baselines/${name}.png`, fullPage: false });
   await page.setViewportSize({ width: 375, height: 812 });
   await page.addStyleTag({

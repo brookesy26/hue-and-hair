@@ -27,3 +27,24 @@ console.log(
     })),
   ),
 );
+
+if (process.argv.includes('--build')) {
+  const body = new FormData();
+  body.set(
+    'branch',
+    process.argv.find((a) => a.startsWith('--branch='))?.slice(9) ||
+      'feat/website',
+  );
+  const response = await fetch(url, { method: 'POST', headers, body });
+  const result = await response.json();
+  console.log(
+    JSON.stringify({
+      status: response.status,
+      success: result.success,
+      errors: result.errors,
+      id: result.result?.id,
+      url: result.result?.url,
+      stage: result.result?.latest_stage,
+    }),
+  );
+}
