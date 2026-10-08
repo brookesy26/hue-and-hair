@@ -1,0 +1,506 @@
+[
+  {
+    "slug": "light-spring",
+    "name": "Light Spring",
+    "family": "Spring",
+    "temperature": "Warm",
+    "depth": "Light",
+    "chroma": "Balanced",
+    "summary": "Airy warmth, gentle colour and fresh, light combinations.",
+    "description": "Light Spring offers a gentle starting point within the warm Spring family. Try lighter warm colours beside your face and compare them with darker alternatives. This is a wardrobe exploration, not a rule about how light your skin or hair must be.",
+    "colours": [
+      {
+        "name": "Buttercream",
+        "hex": "#F4E6BE"
+      },
+      {
+        "name": "Peach",
+        "hex": "#F4B89A"
+      },
+      {
+        "name": "Warm aqua",
+        "hex": "#7BC8C2"
+      },
+      {
+        "name": "Apple",
+        "hex": "#B4CC7C"
+      },
+      {
+        "name": "Light camel",
+        "hex": "#C7A679"
+      },
+      {
+        "name": "Coral",
+        "hex": "#EB927B"
+      }
+    ],
+    "outfits": [
+      "Buttercream shirt with light camel trousers and a peach scarf.",
+      "Warm aqua knit with cream denim and tan trainers.",
+      "Apple overshirt over an ivory top with a coral accessory."
+    ],
+    "explore": ["true-spring", "light-summer"]
+  },
+  {
+    "slug": "true-spring",
+    "name": "True Spring",
+    "family": "Spring",
+    "temperature": "Warm",
+    "depth": "Medium",
+    "chroma": "Bright",
+    "summary": "Warm, clear colours with an optimistic, sunlit feel.",
+    "description": "True Spring places warmth first, with clearer colours rather than greyed-out shades. Compare warm coral and leaf green with cooler pinks and blues in similar lighting. Your favourite colours remain welcome even if they sit outside this framework.",
+    "colours": [
+      {
+        "name": "Coral",
+        "hex": "#E87555"
+      },
+      {
+        "name": "Leaf green",
+        "hex": "#7DAD48"
+      },
+      {
+        "name": "Marigold",
+        "hex": "#E6B23D"
+      },
+      {
+        "name": "Warm turquoise",
+        "hex": "#42AEA1"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#F1E9CE"
+      },
+      {
+        "name": "Camel",
+        "hex": "#B98B59"
+      }
+    ],
+    "outfits": [
+      "Ivory top with leaf-green trousers and camel shoes.",
+      "Warm turquoise shirt with cream chinos and a coral scarf.",
+      "Marigold cardigan over a warm white T-shirt with denim."
+    ],
+    "explore": ["light-spring", "bright-spring"]
+  },
+  {
+    "slug": "bright-spring",
+    "name": "Bright Spring",
+    "family": "Spring",
+    "temperature": "Warm",
+    "depth": "Medium",
+    "chroma": "Bright",
+    "summary": "Clear, lively colour with warmth and confident contrast.",
+    "description": "Bright Spring shares the warm side of Spring but makes clarity the most useful comparison. Put a clear colour beside a softened version and observe which feels more harmonious. The guide uses illustrative colours, rather than a proprietary or diagnostic palette.",
+    "colours": [
+      {
+        "name": "Poppy",
+        "hex": "#E64D42"
+      },
+      {
+        "name": "Fresh green",
+        "hex": "#57B36B"
+      },
+      {
+        "name": "Clear turquoise",
+        "hex": "#28AEB5"
+      },
+      {
+        "name": "Warm pink",
+        "hex": "#EA6D95"
+      },
+      {
+        "name": "Cream",
+        "hex": "#F5E8CA"
+      },
+      {
+        "name": "Bright navy",
+        "hex": "#284A6D"
+      }
+    ],
+    "outfits": [
+      "Clear turquoise top with bright navy trousers and cream trainers.",
+      "Poppy scarf with a cream shirt and fresh-green accessory.",
+      "Warm pink knit with dark denim and a turquoise bag."
+    ],
+    "explore": ["true-spring", "bright-winter"]
+  },
+  {
+    "slug": "light-summer",
+    "name": "Light Summer",
+    "family": "Summer",
+    "temperature": "Cool",
+    "depth": "Light",
+    "chroma": "Soft",
+    "summary": "Cool, light colours with a gentle, softened finish.",
+    "description": "Light Summer starts with lighter, cooler shades that have a little softness. Compare powder blue with warm aqua and pale rose with peach. The colour names describe clothes, not anyone’s skin colour; every palette can be explored by anyone.",
+    "colours": [
+      {
+        "name": "Powder blue",
+        "hex": "#AAC7D8"
+      },
+      {
+        "name": "Rose pink",
+        "hex": "#DDAFBF"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#C3B6D4"
+      },
+      {
+        "name": "Cool mint",
+        "hex": "#A7C8BE"
+      },
+      {
+        "name": "Dove grey",
+        "hex": "#B9BDC5"
+      },
+      {
+        "name": "Soft navy",
+        "hex": "#59677F"
+      }
+    ],
+    "outfits": [
+      "Powder-blue shirt with dove-grey trousers and a rose scarf.",
+      "Lilac knit with light-wash denim and soft-navy shoes.",
+      "Cool-mint overshirt with a pale-grey T-shirt and silver-toned accessory."
+    ],
+    "explore": ["true-summer", "light-spring"]
+  },
+  {
+    "slug": "true-summer",
+    "name": "True Summer",
+    "family": "Summer",
+    "temperature": "Cool",
+    "depth": "Medium",
+    "chroma": "Soft",
+    "summary": "Cool, calm shades with a softly blended quality.",
+    "description": "True Summer emphasises coolness with softened rather than sharp colour. Experiment with rose, denim blue and blue-green at a similar depth. Look for a colour that you enjoy and feel comfortable wearing instead of treating a category as an identity.",
+    "colours": [
+      {
+        "name": "Dusty rose",
+        "hex": "#B88099"
+      },
+      {
+        "name": "Denim blue",
+        "hex": "#6488AA"
+      },
+      {
+        "name": "Blue teal",
+        "hex": "#518E98"
+      },
+      {
+        "name": "Mauve",
+        "hex": "#9B7B9E"
+      },
+      {
+        "name": "Cool grey",
+        "hex": "#8C939E"
+      },
+      {
+        "name": "Soft white",
+        "hex": "#EAECEF"
+      }
+    ],
+    "outfits": [
+      "Soft-white shirt with denim-blue trousers and a dusty-rose scarf.",
+      "Blue-teal knit with cool-grey bottoms and mauve accessories.",
+      "Mauve overshirt over a pale-grey top with dark denim."
+    ],
+    "explore": ["light-summer", "soft-summer"]
+  },
+  {
+    "slug": "soft-summer",
+    "name": "Soft Summer",
+    "family": "Summer",
+    "temperature": "Cool",
+    "depth": "Medium",
+    "chroma": "Soft",
+    "summary": "Muted, cool-leaning colours that combine without sharp contrast.",
+    "description": "Soft Summer puts softness first. Try a dusty colour beside its clearer counterpart and compare tonal outfits with stronger contrast. Some colours overlap with Soft Autumn; these neighbouring guides are helpful starting points when temperature is unclear.",
+    "colours": [
+      {
+        "name": "Rose taupe",
+        "hex": "#9C8188"
+      },
+      {
+        "name": "Sage grey",
+        "hex": "#9BAEA5"
+      },
+      {
+        "name": "Dusty plum",
+        "hex": "#856F89"
+      },
+      {
+        "name": "Slate blue",
+        "hex": "#748A9D"
+      },
+      {
+        "name": "Mushroom",
+        "hex": "#AEA39E"
+      },
+      {
+        "name": "Soft charcoal",
+        "hex": "#626671"
+      }
+    ],
+    "outfits": [
+      "Sage-grey shirt with mushroom trousers and a dusty-plum scarf.",
+      "Slate-blue knit with soft-charcoal denim and rose-taupe shoes.",
+      "A mushroom jacket over a muted rose top and cool-grey trousers."
+    ],
+    "explore": ["true-summer", "soft-autumn"]
+  },
+  {
+    "slug": "soft-autumn",
+    "name": "Soft Autumn",
+    "family": "Autumn",
+    "temperature": "Warm",
+    "depth": "Medium",
+    "chroma": "Soft",
+    "summary": "Gently warmed, muted colours with an earthy ease.",
+    "description": "Soft Autumn highlights softer colour with a warm lean. Compare sage, warm taupe and muted terracotta against clearer orange or cooler grey. If both warm and cool muted shades feel comfortable, borrow from Soft Summer rather than forcing a strict boundary.",
+    "colours": [
+      {
+        "name": "Warm taupe",
+        "hex": "#A68B76"
+      },
+      {
+        "name": "Soft olive",
+        "hex": "#92996E"
+      },
+      {
+        "name": "Muted terracotta",
+        "hex": "#BC8570"
+      },
+      {
+        "name": "Oat",
+        "hex": "#D3C2A7"
+      },
+      {
+        "name": "Dusty teal",
+        "hex": "#708F88"
+      },
+      {
+        "name": "Cocoa",
+        "hex": "#806C5D"
+      }
+    ],
+    "outfits": [
+      "Oat shirt with soft-olive trousers and a muted-terracotta accessory.",
+      "Dusty-teal knit with cocoa chinos and warm-taupe shoes.",
+      "Warm-taupe jacket over a soft peach top and cream denim."
+    ],
+    "explore": ["true-autumn", "soft-summer"]
+  },
+  {
+    "slug": "true-autumn",
+    "name": "True Autumn",
+    "family": "Autumn",
+    "temperature": "Warm",
+    "depth": "Medium",
+    "chroma": "Balanced",
+    "summary": "Warm, grounded colour inspired by ochre, rust and leafy greens.",
+    "description": "True Autumn puts warmth at the centre, with moderately softened colour. Compare rust with cool berry or warm olive with blue-based green. Seasonal names are a convenient clothing vocabulary and do not tell you what you are allowed to wear.",
+    "colours": [
+      {
+        "name": "Rust",
+        "hex": "#AD5C3F"
+      },
+      {
+        "name": "Ochre",
+        "hex": "#BC963C"
+      },
+      {
+        "name": "Olive",
+        "hex": "#7C8250"
+      },
+      {
+        "name": "Warm teal",
+        "hex": "#357F76"
+      },
+      {
+        "name": "Cream",
+        "hex": "#EBDDBE"
+      },
+      {
+        "name": "Chocolate",
+        "hex": "#674738"
+      }
+    ],
+    "outfits": [
+      "Cream shirt with olive trousers and rust trainers.",
+      "Warm-teal jumper with chocolate bottoms and an ochre scarf.",
+      "Rust overshirt over a cream T-shirt with dark denim."
+    ],
+    "explore": ["soft-autumn", "deep-autumn"]
+  },
+  {
+    "slug": "deep-autumn",
+    "name": "Deep Autumn",
+    "family": "Autumn",
+    "temperature": "Warm",
+    "depth": "Deep",
+    "chroma": "Balanced",
+    "summary": "Rich, deeper colour with a warm foundation.",
+    "description": "Deep Autumn focuses on depth before testing warmth. Compare espresso and deep olive with black and cool pine, keeping the light and fabric similar. Wearing a deep palette does not depend on having dark skin, eyes or hair.",
+    "colours": [
+      {
+        "name": "Espresso",
+        "hex": "#49382F"
+      },
+      {
+        "name": "Deep olive",
+        "hex": "#555D38"
+      },
+      {
+        "name": "Petrol",
+        "hex": "#285D5C"
+      },
+      {
+        "name": "Burnt orange",
+        "hex": "#AF6039"
+      },
+      {
+        "name": "Warm burgundy",
+        "hex": "#753F40"
+      },
+      {
+        "name": "Warm ivory",
+        "hex": "#E6D8BB"
+      }
+    ],
+    "outfits": [
+      "Warm-ivory top with espresso trousers and a burnt-orange scarf.",
+      "Petrol shirt with deep-olive chinos and brown shoes.",
+      "Warm-burgundy knit with dark denim and a warm-ivory collar."
+    ],
+    "explore": ["true-autumn", "deep-winter"]
+  },
+  {
+    "slug": "deep-winter",
+    "name": "Deep Winter",
+    "family": "Winter",
+    "temperature": "Cool",
+    "depth": "Deep",
+    "chroma": "Bright",
+    "summary": "Deep, cool colour balanced with clean, lighter accents.",
+    "description": "Deep Winter brings depth and a cool lean together. Compare cool burgundy, pine and charcoal with warmer deep colours, then test how much contrast you enjoy. You can use the palette through accessories rather than replacing your wardrobe.",
+    "colours": [
+      {
+        "name": "Cool burgundy",
+        "hex": "#702F50"
+      },
+      {
+        "name": "Pine",
+        "hex": "#24564D"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#263449"
+      },
+      {
+        "name": "Aubergine",
+        "hex": "#4F3659"
+      },
+      {
+        "name": "Ice pink",
+        "hex": "#E6CDD9"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#343740"
+      }
+    ],
+    "outfits": [
+      "Ice-pink shirt with midnight trousers and charcoal shoes.",
+      "Pine knit with charcoal denim and a cool-burgundy scarf.",
+      "Aubergine jacket over a soft-white top with dark trousers."
+    ],
+    "explore": ["true-winter", "deep-autumn"]
+  },
+  {
+    "slug": "true-winter",
+    "name": "True Winter",
+    "family": "Winter",
+    "temperature": "Cool",
+    "depth": "Medium",
+    "chroma": "Bright",
+    "summary": "Cool, clear colour with distinct, crisp combinations.",
+    "description": "True Winter puts coolness first and often uses clearer colour and contrast. Test blue-based red beside warmer coral, or cobalt beside dusty denim. The guide illustrates a styling system; it is not a scientific assessment of complexion or a promise of how every colour will look.",
+    "colours": [
+      {
+        "name": "Blue red",
+        "hex": "#BD3151"
+      },
+      {
+        "name": "Cobalt",
+        "hex": "#315AAF"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#23866F"
+      },
+      {
+        "name": "Violet",
+        "hex": "#7352AA"
+      },
+      {
+        "name": "Clean white",
+        "hex": "#F5F5F3"
+      },
+      {
+        "name": "Ink",
+        "hex": "#292F43"
+      }
+    ],
+    "outfits": [
+      "Clean-white shirt with ink trousers and a cobalt scarf.",
+      "Emerald knit with dark denim and a blue-red accessory.",
+      "Violet overshirt over a white T-shirt with charcoal trousers."
+    ],
+    "explore": ["deep-winter", "bright-winter"]
+  },
+  {
+    "slug": "bright-winter",
+    "name": "Bright Winter",
+    "family": "Winter",
+    "temperature": "Cool",
+    "depth": "Medium",
+    "chroma": "Bright",
+    "summary": "Clear, high-impact colour with a cool lean and energetic contrast.",
+    "description": "Bright Winter prioritises clarity before temperature. Compare vivid pink or clear turquoise with softened versions and notice whether strong contrast feels right to you. Bright Spring is a useful neighbour if clarity feels clear but warm versus cool remains uncertain.",
+    "colours": [
+      {
+        "name": "Fuchsia",
+        "hex": "#CE3C93"
+      },
+      {
+        "name": "Clear turquoise",
+        "hex": "#26A9BB"
+      },
+      {
+        "name": "Electric blue",
+        "hex": "#385FD0"
+      },
+      {
+        "name": "Clear purple",
+        "hex": "#8052C3"
+      },
+      {
+        "name": "White",
+        "hex": "#F7F7F5"
+      },
+      {
+        "name": "Black",
+        "hex": "#26262B"
+      }
+    ],
+    "outfits": [
+      "White shirt with black trousers and a fuchsia accessory.",
+      "Clear-turquoise top with dark denim and electric-blue trainers.",
+      "Clear-purple knit with charcoal bottoms and a crisp white collar."
+    ],
+    "explore": ["true-winter", "bright-spring"]
+  }
+]
