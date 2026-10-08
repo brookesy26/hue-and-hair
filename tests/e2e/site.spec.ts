@@ -250,3 +250,29 @@ test('missing routes return an accessible 404', async ({ page }) => {
   await expect(page.locator('h1')).toBeVisible();
   await expect(page.getByRole('link', { name: /home/i }).first()).toBeVisible();
 });
+
+test('known answers suggest a tentative palette with accessible intermediate states', async ({
+  page,
+}) => {
+  await page.goto('/self-assessment/');
+  for (const [step, answer] of [
+    [0, 0],
+    [1, 0],
+    [2, 1],
+  ]) {
+    await page.getByRole('radio').nth(answer).check();
+    expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
+    await page
+      .getByRole('button', {
+        name: step === 2 ? /See suggestions/ : /Next question/,
+      })
+      .click();
+  }
+  await expect(page.locator('.palette-card')).toHaveCount(1);
+  await expect(
+    page.getByRole('heading', { name: 'A palette to explore' }),
+  ).toBeVisible();
+  expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
+  await page.getByRole('link', { name: /Light Spring/ }).click();
+  await expect(page).toHaveURL(/light-spring/);
+});

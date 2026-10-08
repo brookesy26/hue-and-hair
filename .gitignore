@@ -10,3 +10,4 @@ coverage/
 .wrangler/
 qa/screenshots/
 
+next-env.d.ts

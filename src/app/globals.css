@@ -1364,6 +1364,29 @@ h3,
   }
 }
 
-.image-sticker { overflow-wrap: anywhere; }
-.gallery-heading .media img { object-fit: contain; }
-@media (max-width:600px) { .card-meta {font-size:0.7rem;} .media figcaption {font-size:0.65rem;} }
+.image-sticker {
+  overflow-wrap: anywhere;
+}
+.gallery-heading .media img {
+  object-fit: contain;
+}
+@media (max-width: 600px) {
+  .card-meta {
+    font-size: 0.7rem;
+  }
+  .media figcaption {
+    font-size: 0.65rem;
+  }
+}
+/* Generous standalone control targets; inline prose links retain their text flow. */
+.desktop-nav a,
+.footer-top nav a,
+.style-card h3 a {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+.text-link,
+summary {
+  min-height: 44px;
+}

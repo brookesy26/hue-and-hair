@@ -1,5 +1,13 @@
 name: Verify website
-on: [push, pull_request]
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+concurrency:
+  group: verify-${{ github.event.pull_request.head.ref || github.ref_name }}
+  cancel-in-progress: true
 jobs:
   checks:
     runs-on: ubuntu-latest
@@ -21,4 +29,3 @@ jobs:
         with:
           name: browser-results
           path: playwright-report/
-

@@ -10,23 +10,23 @@ Sides use the selected front portrait as edit target and request only a camera c
 
 ## Selected pairs
 
-| Hairstyle | Front / side review |
-| --- | --- |
-| long-straight-layers | Long straight dark layers, complete ends, recognisable identity preserved. |
-| long-wavy-layers | Older woman with silver natural waves, complete ends and matching profile. |
-| long-curly-layers | Long defined curls, full silhouette, colour and identity consistent. |
-| long-coily-layers | Tight spring coils with visible layers, full ends and consistent profile. |
-| butterfly-layers | Long swept face-framing layers, back length visible in profile. |
-| long-blunt-fringe | Straight full fringe and long dark lengths, ends retained. |
-| low-loose-bun | Loosely secured low bun; front has face-framing tendrils, profile clearly shows bun. |
-| wavy-half-up | Wavy long lengths with swept half-up crown; side fastening and ends visible. |
-| curly-pineapple | High loose curly updo, front and profile both retain full top silhouette. |
-| two-strand-twists | Individual rope twists, shoulder outline and ends visible. |
-| twist-out | Loose textured coils with volume, complete rounded silhouette. |
-| long-box-braids | Initial front cropped longest tips; one referenced framing edit pulled camera back to thighs. Selected front and side retain ALL braid tips. Original rejected output left at tool default path. |
-| angled-bob | Silver bob with subtle longer front and shorter nape, complete outline. |
-| shoulder-soft-waves | Shoulder-length soft dark waves, identity/colour consistent. |
-| curly-side-part | Asymmetric side-parted curls, full shoulder outline and matching profile. |
+| Hairstyle            | Front / side review                                                                                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| long-straight-layers | Long straight dark layers, complete ends, recognisable identity preserved.                                                                                                                       |
+| long-wavy-layers     | Older woman with silver natural waves, complete ends and matching profile.                                                                                                                       |
+| long-curly-layers    | Long defined curls, full silhouette, colour and identity consistent.                                                                                                                             |
+| long-coily-layers    | Tight spring coils with visible layers, full ends and consistent profile.                                                                                                                        |
+| butterfly-layers     | Long swept face-framing layers, back length visible in profile.                                                                                                                                  |
+| long-blunt-fringe    | Straight full fringe and long dark lengths, ends retained.                                                                                                                                       |
+| low-loose-bun        | Loosely secured low bun; front has face-framing tendrils, profile clearly shows bun.                                                                                                             |
+| wavy-half-up         | Wavy long lengths with swept half-up crown; side fastening and ends visible.                                                                                                                     |
+| curly-pineapple      | High loose curly updo, front and profile both retain full top silhouette.                                                                                                                        |
+| two-strand-twists    | Individual rope twists, shoulder outline and ends visible.                                                                                                                                       |
+| twist-out            | Loose textured coils with volume, complete rounded silhouette.                                                                                                                                   |
+| long-box-braids      | Initial front cropped longest tips; one referenced framing edit pulled camera back to thighs. Selected front and side retain ALL braid tips. Original rejected output left at tool default path. |
+| angled-bob           | Silver bob with subtle longer front and shorter nape, complete outline.                                                                                                                          |
+| shoulder-soft-waves  | Shoulder-length soft dark waves, identity/colour consistent.                                                                                                                                     |
+| curly-side-part      | Asymmetric side-parted curls, full shoulder outline and matching profile.                                                                                                                        |
 
 ## Limits
 
@@ -95,5 +95,3 @@ Single-view professional editorial hair reference photograph of the SAME adult w
 ### curly-side-part
 
 Single-view professional editorial hair reference photograph of the SAME adult woman aged 49, light brown skin, dark curls with side-parted curly shape. A medium curly cut worn with a relaxed side part for asymmetrical volume. Changing the part can shift the balance of a curly shape without a dramatic cut. This example keeps shoulder-level length and fuller volume on one side. Work with where your curls naturally separate rather than forcing an exact line through every curl. Hair texture: curly; visible length: medium. Single front-facing portrait, head and upper torso. One person, one view. Plain warm cream studio background, matte charcoal crew-neck top, soft natural diffuse light, authentic skin texture, realistic strands, no beauty filter, no text, no typography, no watermarks, no collage borders. Hair fully visible without cropping the top or ends. Polished inclusive editorial photography for a hairstyle guide, calm neutral expression.
-
-

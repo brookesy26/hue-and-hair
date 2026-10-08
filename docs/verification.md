@@ -38,3 +38,23 @@ Run and record both `npm audit` and `npm audit --omit=dev` after the final depen
 ## Final integration evidence
 
 Pending lead update: commit/deployment identifiers, generation count, visual review count, lint/build/browser output, accessibility findings and production audit result. Keep unresolved checks clearly visible instead of marking the site compliant by default.
+
+## Integrated local evidence —8October2026
+
+14 unit/component tests pass, with zero lint warnings, strict TypeScript and a successful54-entry static export. The50 content routes all passed asset/metadata/landmark and selected axe A/AA/best-practice checks in Chromium156 and WebKit27.2. URL filters, mobile focus/close/return, uncertain assessment/back/restart/refresh, no-JavaScript collection access and404 checks pass. Later fixes rechecked menu focus and enlarged text in both engines; a known-answer Light Spring journey also passes.
+
+All50 desktop route screenshots were visually inspected through contact sheets, with shared templates also captured at mobile375px. Responsive assertions cover six templates at320,375,768,1024 and1440px,812×375 landscape, reduced motion and200% text enlargement. Text-spacing overrides pass across six templates at375px.320px reflow tests approximate1280px at400% browser zoom; actual browser zoom was not manually controlled. Reviewed template/state baseline captures are in qa/baselines; these are reference artefacts, not cross-platform CI pixel regression assertions.
+
+qa/extra-evidence.json records zero axe violations in three questionnaire steps, a suggested-palette result and the mobile drawer. Measured design-token contrasts: dark text/cream13.78:1, muted text/cream8.20:1, muted text/paper7.28:1, white/plum12.15:1 and focus/cream8.39:1. These measurements cover those combinations only; disabled controls are inactive and require separate applicability judgement.
+
+All72 selected generated originals and72 WebP copies exist. Originals total177.1MB; hashes are in image-manifest.json. Generation review is recorded in image-review-root.md and image-review-ui.md. Generated hair is an illustration, not a salon result guarantee.
+
+Production dependency audit reports0 advisories. Full npm audit reports5 high entries through braces<=3.0.3, including micromatch/fast-glob/ESLint chains (development tooling); no fixed braces release was available. The production export contains no executable build toolchain. Reassess upstream before dependency upgrades; do not apply the incompatible force-fix downgrade.
+
+Local Windows Firefox157 failed before any site navigation with a SideBySide mozglue assembly error even after force-reinstallation. Linux GitHub Actions is the release source for Firefox results. CI and live production identifiers/results will be appended after observed completion.
+
+Manual screen-reader review cannot be performed through the enabled browser-only computer controls. Accessibility-tree and keyboard assertions are recorded, but do not establish spoken announcement behaviour. The WCAG register remains open for human assistive-technology review, language/readability judgement and full AAA assessment. No conformance claim is made.
+
+## Preview and CI observation
+
+Preview deployment c71a2345-f82d-4d9e-bae6-cf7773178746 succeeded for c5fb1d8. GitHub Actions run37838913050 completed successfully on Linux: lint, typecheck,14 unit/component tests, build and21 browser journeys across Chromium, Firefox and WebKit. Source changes after this run add the known-answer journey and control target refinements; a new CI run must pass before merge.

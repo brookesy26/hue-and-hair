@@ -16,4 +16,3 @@ await writeFile(
 console.log(
   `Recorded natural dimensions for ${Object.keys(images).length} images.`,
 );
-
