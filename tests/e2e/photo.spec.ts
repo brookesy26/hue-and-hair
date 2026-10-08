@@ -24,7 +24,9 @@ test('local drapes remain optional, preserve the photo and clear on restart or r
   });
   await page.getByRole('button', { name: 'Continue without a photo' }).click();
   await expect(page.locator('.assessment-panel')).toBeFocused();
-  await page.getByLabel(photoInput).setInputFiles(fixture);
+  await page
+    .getByLabel(photoInput)
+    .setInputFiles('public/images/editorial/hairstyles.webp');
   const photos = page.locator('.photo-drape-panel img');
   await expect(photos).toHaveCount(2);
   const source = await photos.first().getAttribute('src');

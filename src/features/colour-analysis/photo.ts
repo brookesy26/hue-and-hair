@@ -4,7 +4,11 @@ export const PHOTO_EDGE = 1536;
 const formats = new Set(['image/jpeg', 'image/png', 'image/webp']);
 
 export function getPhotoFileError(file: File): string | null {
-  if (!formats.has(file.type))
+  // Some desktop browsers leave the MIME type empty for a valid local image.
+  // A narrow filename fallback still requires successful bitmap decoding below.
+  const unknownType = !file.type || file.type === 'application/octet-stream';
+  const supportedExtension = /\.(jpe?g|png|webp)$/i.test(file.name);
+  if (!formats.has(file.type) && !(unknownType && supportedExtension))
     return 'Choose a JPG, PNG or WebP image. HEIC and HEIF photos are not supported; export your photo as JPG first.';
   if (file.size > MAX_PHOTO_BYTES) return 'Choose a photo smaller than 10 MB.';
   if (file.size === 0) return 'This file is empty. Choose another photo.';

@@ -226,6 +226,8 @@ describe('local photo comparison', () => {
     expect(
       getPhotoFileError(new File([], 'empty.jpg', { type: 'image/jpeg' })),
     ).toContain('empty');
+    expect(getPhotoFileError(new File(['x'], 'photo.webp'))).toBeNull();
+    expect(getPhotoFileError(new File(['x'], 'photo.exe'))).toContain('JPG');
     const tooLarge = new File(['x'], 'large.jpg', { type: 'image/jpeg' });
     Object.defineProperty(tooLarge, 'size', { value: MAX_PHOTO_BYTES + 1 });
     expect(getPhotoFileError(tooLarge)).toContain('10 MB');
