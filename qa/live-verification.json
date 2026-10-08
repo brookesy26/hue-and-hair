@@ -1,6 +1,6 @@
 {
   "base": "https://hue-and-hair-c4w.pages.dev",
-  "checkedAt": "2026-10-08T20:36:43.075Z",
+  "checkedAt": "2026-10-08T21:39:50.227Z",
   "routes": [
     {
       "path": "/",
@@ -566,11 +566,11 @@
     }
   ],
   "headers": {
-    "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests",
+    "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "permissions-policy": "camera=(), microphone=(), geolocation=()"
+    "permissions-policy": "camera=(self), microphone=(), geolocation=()"
   },
   "missingStatus": 404,
   "httpRedirect": 301,

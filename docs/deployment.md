@@ -39,3 +39,11 @@ Production deployment `e5481a21-0cc1-4e32-9159-b9435a2dcfeb` serves merge commit
 The API-created project has automatic source deployment settings enabled, but an automatic response to a Git push has not been observed. Explicit Git-backed API builds were verified successfully. With an existing Wrangler OAuth sign-in, `node scripts/cloudflare-status.mjs --build --branch=main` queues the current main branch; use `--branch=feat/website` for the retained preview branch. Without `--build`, the script is read-only and reports deployment stages. It never prints the OAuth token. GitHub CLI helpers use the existing Git Credential Manager session and also keep credentials out of output.
 
 The first production release has no earlier production version to roll back to. The retained successful production identifier can become the rollback target for later releases. Confirm source and output after rollback; a documentation-only follow-up commit need not alter the published site.
+
+## Photo-assisted upgrade rollback
+
+PR 2 merges the optional local-photo controls after verified three-engine CI and a reviewed Git-built preview (`ab2cd16f`). The preceding production deployment `e5481a21-0cc1-4e32-9159-b9435a2dcfeb` is the known-good rollback target for this upgrade. Rolling back removes the optional camera tool and restores the previous camera-blocking header. Verify deployment status, direct routes, questionnaire and headers after any rollback. Production identifiers and post-release observations are recorded in PROGRESS.md.
+
+Before using the read-only/build helper after a long session, `npx wrangler whoami` refreshes an existing OAuth session. The helper reads the stored token without printing it. The generic GitHub helper defaults to the photo feature branch and accepts `--branch=...` for subsequent work.
+
+The photo upgrade production deployment is `2c86c331-b870-430d-8f0a-61a6b567a2a9`, serving merge `a88fca09c766bbc58cd6da9b14d04a57e9e8874c`. Production routes, assets, headers and photo journeys passed. Documentation-only follow-up commits may be newer than this verified deployed source; the final source/output mapping is recorded in PROGRESS.md.

@@ -142,3 +142,7 @@ The table above retains manual-review gates. The following observed evidence nar
 | 3.3.2, 4.1.2, 4.1.3 | Named native selects/radio fieldsets; status results; disabled-until-answer progression; live journey assertions pass         | Screen-reader announcements and instructions require actual spoken review.                               |
 
 Remediation protocol: perform NVDA/Firefox or VoiceOver/Safari review, record versions and exact states, repair any announcement/focus issue, then rerun affected journeys and update the specific criterion. Do not close unrelated pending criteria from an axe result. No AAA conformance statement is supported by this record.
+
+## Photo-assisted assessment evidence
+
+Optional device-local images add labelled file, camera, select and range controls. Keyboard skip focus and range adjustment, photo-state axe, responsive reflow and text enlargement have been checked. Colour labels and hex values accompany each sample; mobile switches expose their state without selecting questionnaire answers. Lifecycle tests cover capture, cancellation, late permission, hidden page, question navigation, pagehide and disposal. Live preview checks confirm the intended camera policy and local blob image CSP. Manual screen-reader interaction and physical mobile cameras remain pending; these observations do not extend any conformance claim.

@@ -33,3 +33,9 @@ Keep storage adaptation behind the content-access layer. A safe first step is a 
 If direct asynchronous build-time fetching is needed, introduce a server-only adapter, make route data access asynchronous, and provide the interactive gallery with validated public data as props. Update static-parameter generation and build tests together. Do not import credential-bearing adapters into client components.
 
 Preserve stable slugs, public image paths, cross-reference checks and missing-content behaviour. Define publishing ownership, cache invalidation and build failure handling with the backend team. Rebuild after publishing content; an existing static export cannot discover a new CMS entry until a new build completes.
+
+## Editing digital drapes
+
+The six illustrative comparison sets are in `src/features/colour-analysis/comparisons.ts`; the existing answer/scoring rules remain in `model.ts`. Keep comparison sample values aligned with question options. Each question has two labelled sets. Temperature pairs approximately match lightness/chroma, depth sets vary lightness, and clarity sets vary chroma. Do not describe these original sRGB samples as calibrated fabric measurements. The comparison tests check identifiers, formats and approximate separation. Changing a sample does not change an answer or result automatically.
+
+Photo preparation and validation live in `photo.ts`, and the browser-only controls in `photo-comparison.tsx`. Do not add photo network requests, persistence, facial inference or automatic answer selection. Keep the same transformed image across each sample and retain a complete photo-free journey.
